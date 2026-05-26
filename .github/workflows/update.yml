@@ -7,15 +7,11 @@ on:
     # Executa a cada 6 horas
     - cron: "0 */6 * * *"
   workflow_dispatch:
-    # Permite execução manual pela interface do GitHub
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 env:
-  # Força Node.js 24 nas actions (remove o deprecation warning do Node 20)
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
@@ -53,33 +49,5 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/fixtures.json data/cache.json output/worldcup.ics
-          git diff --cached --quiet || git commit -m "chore: atualiza calendário $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git diff --cached --quiet || git commit -m "chore: atualiza calendario $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
           git push
-
-  deploy-pages:
-    name: Publicar no GitHub Pages
-    needs: update-calendar
-    runs-on: ubuntu-latest
-
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
-    steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v4
-        with:
-          # Garante que o commit gerado acima seja pego
-          ref: main
-
-      - name: Configurar GitHub Pages
-        uses: actions/configure-pages@v5
-
-      - name: Preparar artefato (pasta output/)
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: output
-
-      - name: Publicar no GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
