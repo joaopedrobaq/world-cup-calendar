@@ -38,22 +38,10 @@ jobs:
       - name: Instalar dependências
         run: pip install -r requirements.txt
 
-      - name: Verificar API key configurada
+      - name: Gerar fixtures estáticos
         env:
-          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
-        run: |
-          if [ -z "$API_FOOTBALL_KEY" ]; then
-            echo "::error::Secret API_FOOTBALL_KEY não está configurado!"
-            echo "Acesse: Settings → Secrets → Actions → New repository secret"
-            exit 1
-          fi
-          echo "API key detectada (${#API_FOOTBALL_KEY} caracteres)"
-
-      - name: Buscar fixtures da API
-        env:
-          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
           PYTHONPATH: .
-        run: python -u scripts/fetch_matches.py
+        run: python -u scripts/build_static_fixtures.py
 
       - name: Gerar worldcup.ics
         env:
