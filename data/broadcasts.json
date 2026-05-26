@@ -1,0 +1,6 @@
+{
+  "_instrucoes": "Mapeie fixture_id (string) para lista de canais. Remova esta chave antes de usar.",
+  "_exemplo": {
+    "fixture_id_aqui": ["TV Globo", "SporTV", "CazéTV"]
+  }
+}
