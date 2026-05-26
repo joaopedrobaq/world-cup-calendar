@@ -1,309 +1,21 @@
 {
-  "updated_at": "2026-05-26T20:13:46.280856+00:00",
+  "updated_at": "2026-05-26T20:47:08.266824+00:00",
   "source": "static",
   "total": 104,
   "fixtures": [
     {
       "id": 9001,
-      "date": "2026-06-11T15:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - A",
-      "home": {
-        "id": null,
-        "name": "USA",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Panama",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "MetLife Stadium",
-        "city": "East Rutherford, NJ"
-      }
-    },
-    {
-      "id": 9002,
       "date": "2026-06-11T18:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - A",
       "home": {
         "id": null,
-        "name": "USA",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Uruguay",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "AT&T Stadium",
-        "city": "Dallas, TX"
-      }
-    },
-    {
-      "id": 9003,
-      "date": "2026-06-11T21:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - A",
-      "home": {
-        "id": null,
-        "name": "USA",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Bolivia",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "SoFi Stadium",
-        "city": "Los Angeles, CA"
-      }
-    },
-    {
-      "id": 9004,
-      "date": "2026-06-12T15:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - A",
-      "home": {
-        "id": null,
-        "name": "Panama",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Uruguay",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Rose Bowl",
-        "city": "Los Angeles, CA"
-      }
-    },
-    {
-      "id": 9005,
-      "date": "2026-06-12T18:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - A",
-      "home": {
-        "id": null,
-        "name": "Panama",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Bolivia",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Levi's Stadium",
-        "city": "San Francisco, CA"
-      }
-    },
-    {
-      "id": 9006,
-      "date": "2026-06-12T21:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - A",
-      "home": {
-        "id": null,
-        "name": "Uruguay",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Bolivia",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Arrowhead Stadium",
-        "city": "Kansas City, MO"
-      }
-    },
-    {
-      "id": 9007,
-      "date": "2026-06-13T15:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - B",
-      "home": {
-        "id": null,
         "name": "Mexico",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Jamaica",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Empower Field at Mile High",
-        "city": "Denver, CO"
-      }
-    },
-    {
-      "id": 9008,
-      "date": "2026-06-13T18:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - B",
-      "home": {
-        "id": null,
-        "name": "Mexico",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Senegal",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Lumen Field",
-        "city": "Seattle, WA"
-      }
-    },
-    {
-      "id": 9009,
-      "date": "2026-06-13T21:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - B",
-      "home": {
-        "id": null,
-        "name": "Mexico",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "New Zealand",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Lincoln Financial Field",
-        "city": "Philadelphia, PA"
-      }
-    },
-    {
-      "id": 9010,
-      "date": "2026-06-14T15:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - B",
-      "home": {
-        "id": null,
-        "name": "Jamaica",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Senegal",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Gillette Stadium",
-        "city": "Boston, MA"
-      }
-    },
-    {
-      "id": 9011,
-      "date": "2026-06-14T18:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - B",
-      "home": {
-        "id": null,
-        "name": "Jamaica",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "New Zealand",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Hard Rock Stadium",
-        "city": "Miami, FL"
-      }
-    },
-    {
-      "id": 9012,
-      "date": "2026-06-14T21:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - B",
-      "home": {
-        "id": null,
-        "name": "Senegal",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "New Zealand",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Allegiant Stadium",
-        "city": "Las Vegas, NV"
-      }
-    },
-    {
-      "id": 9013,
-      "date": "2026-06-15T15:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - C",
-      "home": {
-        "id": null,
-        "name": "Germany",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Japan",
+        "name": "South Africa",
         "winner": null
       },
       "score": {
@@ -316,42 +28,18 @@
       }
     },
     {
-      "id": 9014,
-      "date": "2026-06-15T18:00:00+00:00",
+      "id": 9002,
+      "date": "2026-06-11T22:00:00+00:00",
       "status": "NS",
-      "round": "Group Stage - C",
+      "round": "Group Stage - A",
       "home": {
         "id": null,
-        "name": "Germany",
+        "name": "South Korea",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Costa Rica",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Estadio BBVA",
-        "city": "Monterrey"
-      }
-    },
-    {
-      "id": 9015,
-      "date": "2026-06-15T21:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - C",
-      "home": {
-        "id": null,
-        "name": "Germany",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Australia",
+        "name": "Czech Republic",
         "winner": null
       },
       "score": {
@@ -364,18 +52,186 @@
       }
     },
     {
-      "id": 9016,
-      "date": "2026-06-16T15:00:00+00:00",
+      "id": 9003,
+      "date": "2026-06-18T18:00:00+00:00",
       "status": "NS",
-      "round": "Group Stage - C",
+      "round": "Group Stage - A",
       "home": {
         "id": null,
-        "name": "Japan",
+        "name": "Czech Republic",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Costa Rica",
+        "name": "South Africa",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Mercedes-Benz Stadium",
+        "city": "Atlanta, GA"
+      }
+    },
+    {
+      "id": 9004,
+      "date": "2026-06-18T22:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - A",
+      "home": {
+        "id": null,
+        "name": "Mexico",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "South Korea",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Estadio Akron",
+        "city": "Guadalajara"
+      }
+    },
+    {
+      "id": 9005,
+      "date": "2026-06-24T21:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - A",
+      "home": {
+        "id": null,
+        "name": "Czech Republic",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Mexico",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Estadio Azteca",
+        "city": "Mexico City"
+      }
+    },
+    {
+      "id": 9006,
+      "date": "2026-06-24T21:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - A",
+      "home": {
+        "id": null,
+        "name": "South Africa",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "South Korea",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Estadio BBVA",
+        "city": "Monterrey"
+      }
+    },
+    {
+      "id": 9007,
+      "date": "2026-06-12T18:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - B",
+      "home": {
+        "id": null,
+        "name": "Canada",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Bosnia & Herzegovina",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "BMO Field",
+        "city": "Toronto"
+      }
+    },
+    {
+      "id": 9008,
+      "date": "2026-06-12T22:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - B",
+      "home": {
+        "id": null,
+        "name": "Qatar",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Switzerland",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Levi's Stadium",
+        "city": "San Jose, CA"
+      }
+    },
+    {
+      "id": 9009,
+      "date": "2026-06-18T18:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - B",
+      "home": {
+        "id": null,
+        "name": "Switzerland",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Bosnia & Herzegovina",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "SoFi Stadium",
+        "city": "Los Angeles, CA"
+      }
+    },
+    {
+      "id": 9010,
+      "date": "2026-06-18T22:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - B",
+      "home": {
+        "id": null,
+        "name": "Canada",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Qatar",
         "winner": null
       },
       "score": {
@@ -388,18 +244,90 @@
       }
     },
     {
-      "id": 9017,
-      "date": "2026-06-16T18:00:00+00:00",
+      "id": 9011,
+      "date": "2026-06-24T17:00:00+00:00",
       "status": "NS",
-      "round": "Group Stage - C",
+      "round": "Group Stage - B",
       "home": {
         "id": null,
-        "name": "Japan",
+        "name": "Switzerland",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Australia",
+        "name": "Canada",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "BC Place",
+        "city": "Vancouver"
+      }
+    },
+    {
+      "id": 9012,
+      "date": "2026-06-24T17:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - B",
+      "home": {
+        "id": null,
+        "name": "Bosnia & Herzegovina",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Qatar",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Lumen Field",
+        "city": "Seattle, WA"
+      }
+    },
+    {
+      "id": 9013,
+      "date": "2026-06-13T18:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - C",
+      "home": {
+        "id": null,
+        "name": "Brazil",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Morocco",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Gillette Stadium",
+        "city": "Boston, MA"
+      }
+    },
+    {
+      "id": 9014,
+      "date": "2026-06-13T22:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - C",
+      "home": {
+        "id": null,
+        "name": "Haiti",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Scotland",
         "winner": null
       },
       "score": {
@@ -412,18 +340,18 @@
       }
     },
     {
-      "id": 9018,
-      "date": "2026-06-16T21:00:00+00:00",
+      "id": 9015,
+      "date": "2026-06-19T18:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - C",
       "home": {
         "id": null,
-        "name": "Costa Rica",
+        "name": "Brazil",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Australia",
+        "name": "Haiti",
         "winner": null
       },
       "score": {
@@ -431,23 +359,95 @@
         "away": null
       },
       "venue": {
-        "name": "AT&T Stadium",
-        "city": "Dallas, TX"
+        "name": "Lincoln Financial Field",
+        "city": "Philadelphia, PA"
       }
     },
     {
-      "id": 9019,
-      "date": "2026-06-17T15:00:00+00:00",
+      "id": 9016,
+      "date": "2026-06-19T22:00:00+00:00",
       "status": "NS",
-      "round": "Group Stage - D",
+      "round": "Group Stage - C",
       "home": {
         "id": null,
-        "name": "Spain",
+        "name": "Scotland",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Croatia",
+        "name": "Morocco",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Gillette Stadium",
+        "city": "Boston, MA"
+      }
+    },
+    {
+      "id": 9017,
+      "date": "2026-06-25T00:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - C",
+      "home": {
+        "id": null,
+        "name": "Scotland",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Brazil",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Hard Rock Stadium",
+        "city": "Miami, FL"
+      }
+    },
+    {
+      "id": 9018,
+      "date": "2026-06-25T00:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - C",
+      "home": {
+        "id": null,
+        "name": "Morocco",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Haiti",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Mercedes-Benz Stadium",
+        "city": "Atlanta, GA"
+      }
+    },
+    {
+      "id": 9019,
+      "date": "2026-06-12T18:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - D",
+      "home": {
+        "id": null,
+        "name": "USA",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Paraguay",
         "winner": null
       },
       "score": {
@@ -461,17 +461,17 @@
     },
     {
       "id": 9020,
-      "date": "2026-06-17T18:00:00+00:00",
+      "date": "2026-06-12T22:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - D",
       "home": {
         "id": null,
-        "name": "Spain",
+        "name": "Australia",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Morocco",
+        "name": "Turkey",
         "winner": null
       },
       "score": {
@@ -479,23 +479,23 @@
         "away": null
       },
       "venue": {
-        "name": "Rose Bowl",
-        "city": "Los Angeles, CA"
+        "name": "BC Place",
+        "city": "Vancouver"
       }
     },
     {
       "id": 9021,
-      "date": "2026-06-17T21:00:00+00:00",
+      "date": "2026-06-19T18:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - D",
       "home": {
         "id": null,
-        "name": "Spain",
+        "name": "Turkey",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Venezuela",
+        "name": "Paraguay",
         "winner": null
       },
       "score": {
@@ -504,70 +504,22 @@
       },
       "venue": {
         "name": "Levi's Stadium",
-        "city": "San Francisco, CA"
+        "city": "San Jose, CA"
       }
     },
     {
       "id": 9022,
-      "date": "2026-06-18T15:00:00+00:00",
+      "date": "2026-06-19T22:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - D",
       "home": {
         "id": null,
-        "name": "Croatia",
+        "name": "USA",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Morocco",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Arrowhead Stadium",
-        "city": "Kansas City, MO"
-      }
-    },
-    {
-      "id": 9023,
-      "date": "2026-06-18T18:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - D",
-      "home": {
-        "id": null,
-        "name": "Croatia",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Venezuela",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Empower Field at Mile High",
-        "city": "Denver, CO"
-      }
-    },
-    {
-      "id": 9024,
-      "date": "2026-06-18T21:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - D",
-      "home": {
-        "id": null,
-        "name": "Morocco",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Venezuela",
+        "name": "Australia",
         "winner": null
       },
       "score": {
@@ -580,18 +532,66 @@
       }
     },
     {
-      "id": 9025,
-      "date": "2026-06-19T15:00:00+00:00",
+      "id": 9023,
+      "date": "2026-06-25T21:00:00+00:00",
       "status": "NS",
-      "round": "Group Stage - E",
+      "round": "Group Stage - D",
       "home": {
         "id": null,
-        "name": "France",
+        "name": "Turkey",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Belgium",
+        "name": "USA",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "SoFi Stadium",
+        "city": "Los Angeles, CA"
+      }
+    },
+    {
+      "id": 9024,
+      "date": "2026-06-25T21:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - D",
+      "home": {
+        "id": null,
+        "name": "Paraguay",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Australia",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Levi's Stadium",
+        "city": "San Jose, CA"
+      }
+    },
+    {
+      "id": 9025,
+      "date": "2026-06-14T18:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - E",
+      "home": {
+        "id": null,
+        "name": "Germany",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Curacao",
         "winner": null
       },
       "score": {
@@ -605,17 +605,17 @@
     },
     {
       "id": 9026,
-      "date": "2026-06-19T18:00:00+00:00",
+      "date": "2026-06-14T22:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - E",
       "home": {
         "id": null,
-        "name": "France",
+        "name": "Ivory Coast",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Serbia",
+        "name": "Ecuador",
         "winner": null
       },
       "score": {
@@ -623,71 +623,23 @@
         "away": null
       },
       "venue": {
-        "name": "Gillette Stadium",
-        "city": "Boston, MA"
+        "name": "NRG Stadium",
+        "city": "Houston, TX"
       }
     },
     {
       "id": 9027,
-      "date": "2026-06-19T21:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - E",
-      "home": {
-        "id": null,
-        "name": "France",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Algeria",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Hard Rock Stadium",
-        "city": "Miami, FL"
-      }
-    },
-    {
-      "id": 9028,
-      "date": "2026-06-20T15:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - E",
-      "home": {
-        "id": null,
-        "name": "Belgium",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Serbia",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Allegiant Stadium",
-        "city": "Las Vegas, NV"
-      }
-    },
-    {
-      "id": 9029,
       "date": "2026-06-20T18:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - E",
       "home": {
         "id": null,
-        "name": "Belgium",
+        "name": "Germany",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Algeria",
+        "name": "Ivory Coast",
         "winner": null
       },
       "score": {
@@ -695,215 +647,23 @@
         "away": null
       },
       "venue": {
-        "name": "Estadio Azteca",
-        "city": "Mexico City"
+        "name": "BMO Field",
+        "city": "Toronto"
       }
     },
     {
-      "id": 9030,
-      "date": "2026-06-20T21:00:00+00:00",
+      "id": 9028,
+      "date": "2026-06-20T22:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - E",
       "home": {
         "id": null,
-        "name": "Serbia",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Algeria",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Estadio BBVA",
-        "city": "Monterrey"
-      }
-    },
-    {
-      "id": 9031,
-      "date": "2026-06-21T15:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - F",
-      "home": {
-        "id": null,
-        "name": "Brazil",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Colombia",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Estadio Akron",
-        "city": "Guadalajara"
-      }
-    },
-    {
-      "id": 9032,
-      "date": "2026-06-21T18:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - F",
-      "home": {
-        "id": null,
-        "name": "Brazil",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Ecuador",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "BC Place",
-        "city": "Vancouver"
-      }
-    },
-    {
-      "id": 9033,
-      "date": "2026-06-21T21:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - F",
-      "home": {
-        "id": null,
-        "name": "Brazil",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Cameroon",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "MetLife Stadium",
-        "city": "East Rutherford, NJ"
-      }
-    },
-    {
-      "id": 9034,
-      "date": "2026-06-22T15:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - F",
-      "home": {
-        "id": null,
-        "name": "Colombia",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Ecuador",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "AT&T Stadium",
-        "city": "Dallas, TX"
-      }
-    },
-    {
-      "id": 9035,
-      "date": "2026-06-22T18:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - F",
-      "home": {
-        "id": null,
-        "name": "Colombia",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Cameroon",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "SoFi Stadium",
-        "city": "Los Angeles, CA"
-      }
-    },
-    {
-      "id": 9036,
-      "date": "2026-06-22T21:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - F",
-      "home": {
-        "id": null,
         "name": "Ecuador",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Cameroon",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Rose Bowl",
-        "city": "Los Angeles, CA"
-      }
-    },
-    {
-      "id": 9037,
-      "date": "2026-06-23T15:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - G",
-      "home": {
-        "id": null,
-        "name": "Argentina",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Chile",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Levi's Stadium",
-        "city": "San Francisco, CA"
-      }
-    },
-    {
-      "id": 9038,
-      "date": "2026-06-23T18:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - G",
-      "home": {
-        "id": null,
-        "name": "Argentina",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Peru",
+        "name": "Curacao",
         "winner": null
       },
       "score": {
@@ -916,66 +676,18 @@
       }
     },
     {
-      "id": 9039,
-      "date": "2026-06-23T21:00:00+00:00",
+      "id": 9029,
+      "date": "2026-06-25T17:00:00+00:00",
       "status": "NS",
-      "round": "Group Stage - G",
+      "round": "Group Stage - E",
       "home": {
         "id": null,
-        "name": "Argentina",
+        "name": "Ecuador",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Poland",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Empower Field at Mile High",
-        "city": "Denver, CO"
-      }
-    },
-    {
-      "id": 9040,
-      "date": "2026-06-24T15:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - G",
-      "home": {
-        "id": null,
-        "name": "Chile",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Peru",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Lumen Field",
-        "city": "Seattle, WA"
-      }
-    },
-    {
-      "id": 9041,
-      "date": "2026-06-24T18:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - G",
-      "home": {
-        "id": null,
-        "name": "Chile",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Poland",
+        "name": "Germany",
         "winner": null
       },
       "score": {
@@ -988,18 +700,18 @@
       }
     },
     {
-      "id": 9042,
-      "date": "2026-06-24T21:00:00+00:00",
+      "id": 9030,
+      "date": "2026-06-25T17:00:00+00:00",
       "status": "NS",
-      "round": "Group Stage - G",
+      "round": "Group Stage - E",
       "home": {
         "id": null,
-        "name": "Peru",
+        "name": "Curacao",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Poland",
+        "name": "Ivory Coast",
         "winner": null
       },
       "score": {
@@ -1007,23 +719,311 @@
         "away": null
       },
       "venue": {
-        "name": "Gillette Stadium",
-        "city": "Boston, MA"
+        "name": "MetLife Stadium",
+        "city": "East Rutherford, NJ"
       }
     },
     {
-      "id": 9043,
-      "date": "2026-06-25T15:00:00+00:00",
+      "id": 9031,
+      "date": "2026-06-14T18:00:00+00:00",
       "status": "NS",
-      "round": "Group Stage - H",
+      "round": "Group Stage - F",
       "home": {
         "id": null,
-        "name": "Portugal",
+        "name": "Netherlands",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Turkey",
+        "name": "Japan",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "AT&T Stadium",
+        "city": "Dallas, TX"
+      }
+    },
+    {
+      "id": 9032,
+      "date": "2026-06-14T22:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - F",
+      "home": {
+        "id": null,
+        "name": "Sweden",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Tunisia",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Estadio BBVA",
+        "city": "Monterrey"
+      }
+    },
+    {
+      "id": 9033,
+      "date": "2026-06-20T18:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - F",
+      "home": {
+        "id": null,
+        "name": "Netherlands",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Sweden",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "NRG Stadium",
+        "city": "Houston, TX"
+      }
+    },
+    {
+      "id": 9034,
+      "date": "2026-06-20T22:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - F",
+      "home": {
+        "id": null,
+        "name": "Tunisia",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Japan",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Estadio BBVA",
+        "city": "Monterrey"
+      }
+    },
+    {
+      "id": 9035,
+      "date": "2026-06-26T01:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - F",
+      "home": {
+        "id": null,
+        "name": "Tunisia",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Netherlands",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "AT&T Stadium",
+        "city": "Dallas, TX"
+      }
+    },
+    {
+      "id": 9036,
+      "date": "2026-06-26T01:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - F",
+      "home": {
+        "id": null,
+        "name": "Japan",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Sweden",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Arrowhead Stadium",
+        "city": "Kansas City, MO"
+      }
+    },
+    {
+      "id": 9037,
+      "date": "2026-06-15T18:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - G",
+      "home": {
+        "id": null,
+        "name": "Belgium",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Egypt",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "SoFi Stadium",
+        "city": "Los Angeles, CA"
+      }
+    },
+    {
+      "id": 9038,
+      "date": "2026-06-15T22:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - G",
+      "home": {
+        "id": null,
+        "name": "Iran",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "New Zealand",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Lumen Field",
+        "city": "Seattle, WA"
+      }
+    },
+    {
+      "id": 9039,
+      "date": "2026-06-21T18:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - G",
+      "home": {
+        "id": null,
+        "name": "Belgium",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Iran",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "SoFi Stadium",
+        "city": "Los Angeles, CA"
+      }
+    },
+    {
+      "id": 9040,
+      "date": "2026-06-21T22:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - G",
+      "home": {
+        "id": null,
+        "name": "New Zealand",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Egypt",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "BC Place",
+        "city": "Vancouver"
+      }
+    },
+    {
+      "id": 9041,
+      "date": "2026-06-26T21:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - G",
+      "home": {
+        "id": null,
+        "name": "New Zealand",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Belgium",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Lumen Field",
+        "city": "Seattle, WA"
+      }
+    },
+    {
+      "id": 9042,
+      "date": "2026-06-26T21:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - G",
+      "home": {
+        "id": null,
+        "name": "Egypt",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Iran",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "BC Place",
+        "city": "Vancouver"
+      }
+    },
+    {
+      "id": 9043,
+      "date": "2026-06-15T18:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - H",
+      "home": {
+        "id": null,
+        "name": "Spain",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Cape Verde",
         "winner": null
       },
       "score": {
@@ -1037,17 +1037,17 @@
     },
     {
       "id": 9044,
-      "date": "2026-06-25T18:00:00+00:00",
+      "date": "2026-06-15T22:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - H",
       "home": {
         "id": null,
-        "name": "Portugal",
+        "name": "Saudi Arabia",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Czech Republic",
+        "name": "Uruguay",
         "winner": null
       },
       "score": {
@@ -1055,23 +1055,23 @@
         "away": null
       },
       "venue": {
-        "name": "Allegiant Stadium",
-        "city": "Las Vegas, NV"
+        "name": "Mercedes-Benz Stadium",
+        "city": "Atlanta, GA"
       }
     },
     {
       "id": 9045,
-      "date": "2026-06-25T21:00:00+00:00",
+      "date": "2026-06-21T18:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - H",
       "home": {
         "id": null,
-        "name": "Portugal",
+        "name": "Spain",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Nigeria",
+        "name": "Saudi Arabia",
         "winner": null
       },
       "score": {
@@ -1079,23 +1079,23 @@
         "away": null
       },
       "venue": {
-        "name": "Estadio Azteca",
-        "city": "Mexico City"
+        "name": "Hard Rock Stadium",
+        "city": "Miami, FL"
       }
     },
     {
       "id": 9046,
-      "date": "2026-06-26T15:00:00+00:00",
+      "date": "2026-06-21T22:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - H",
       "home": {
         "id": null,
-        "name": "Turkey",
+        "name": "Uruguay",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Czech Republic",
+        "name": "Cape Verde",
         "winner": null
       },
       "score": {
@@ -1103,23 +1103,47 @@
         "away": null
       },
       "venue": {
-        "name": "Estadio BBVA",
-        "city": "Monterrey"
+        "name": "Mercedes-Benz Stadium",
+        "city": "Atlanta, GA"
       }
     },
     {
       "id": 9047,
-      "date": "2026-06-26T18:00:00+00:00",
+      "date": "2026-06-26T17:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - H",
       "home": {
         "id": null,
-        "name": "Turkey",
+        "name": "Uruguay",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Nigeria",
+        "name": "Spain",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "NRG Stadium",
+        "city": "Houston, TX"
+      }
+    },
+    {
+      "id": 9048,
+      "date": "2026-06-26T17:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - H",
+      "home": {
+        "id": null,
+        "name": "Cape Verde",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Saudi Arabia",
         "winner": null
       },
       "score": {
@@ -1132,42 +1156,18 @@
       }
     },
     {
-      "id": 9048,
-      "date": "2026-06-26T21:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - H",
-      "home": {
-        "id": null,
-        "name": "Czech Republic",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Nigeria",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "BC Place",
-        "city": "Vancouver"
-      }
-    },
-    {
       "id": 9049,
-      "date": "2026-06-27T15:00:00+00:00",
+      "date": "2026-06-16T18:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - I",
       "home": {
         "id": null,
-        "name": "England",
+        "name": "France",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Netherlands",
+        "name": "Senegal",
         "winner": null
       },
       "score": {
@@ -1181,209 +1181,17 @@
     },
     {
       "id": 9050,
-      "date": "2026-06-27T18:00:00+00:00",
+      "date": "2026-06-16T22:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - I",
       "home": {
         "id": null,
-        "name": "England",
+        "name": "Iraq",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Iran",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "AT&T Stadium",
-        "city": "Dallas, TX"
-      }
-    },
-    {
-      "id": 9051,
-      "date": "2026-06-27T21:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - I",
-      "home": {
-        "id": null,
-        "name": "England",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "South Korea",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "SoFi Stadium",
-        "city": "Los Angeles, CA"
-      }
-    },
-    {
-      "id": 9052,
-      "date": "2026-06-28T15:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - I",
-      "home": {
-        "id": null,
-        "name": "Netherlands",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Iran",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Rose Bowl",
-        "city": "Los Angeles, CA"
-      }
-    },
-    {
-      "id": 9053,
-      "date": "2026-06-28T18:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - I",
-      "home": {
-        "id": null,
-        "name": "Netherlands",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "South Korea",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Levi's Stadium",
-        "city": "San Francisco, CA"
-      }
-    },
-    {
-      "id": 9054,
-      "date": "2026-06-28T21:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - I",
-      "home": {
-        "id": null,
-        "name": "Iran",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "South Korea",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Arrowhead Stadium",
-        "city": "Kansas City, MO"
-      }
-    },
-    {
-      "id": 9055,
-      "date": "2026-06-29T15:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - J",
-      "home": {
-        "id": null,
-        "name": "Canada",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Honduras",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Empower Field at Mile High",
-        "city": "Denver, CO"
-      }
-    },
-    {
-      "id": 9056,
-      "date": "2026-06-29T18:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - J",
-      "home": {
-        "id": null,
-        "name": "Canada",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Tunisia",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Lumen Field",
-        "city": "Seattle, WA"
-      }
-    },
-    {
-      "id": 9057,
-      "date": "2026-06-29T21:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - J",
-      "home": {
-        "id": null,
-        "name": "Canada",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Ukraine",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Lincoln Financial Field",
-        "city": "Philadelphia, PA"
-      }
-    },
-    {
-      "id": 9058,
-      "date": "2026-06-30T15:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - J",
-      "home": {
-        "id": null,
-        "name": "Honduras",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Tunisia",
+        "name": "Norway",
         "winner": null
       },
       "score": {
@@ -1396,162 +1204,18 @@
       }
     },
     {
-      "id": 9059,
-      "date": "2026-06-30T18:00:00+00:00",
+      "id": 9051,
+      "date": "2026-06-22T18:00:00+00:00",
       "status": "NS",
-      "round": "Group Stage - J",
+      "round": "Group Stage - I",
       "home": {
         "id": null,
-        "name": "Honduras",
+        "name": "France",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Ukraine",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Hard Rock Stadium",
-        "city": "Miami, FL"
-      }
-    },
-    {
-      "id": 9060,
-      "date": "2026-06-30T21:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - J",
-      "home": {
-        "id": null,
-        "name": "Tunisia",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Ukraine",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Allegiant Stadium",
-        "city": "Las Vegas, NV"
-      }
-    },
-    {
-      "id": 9061,
-      "date": "2026-07-01T15:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - K",
-      "home": {
-        "id": null,
-        "name": "Switzerland",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Denmark",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Estadio Azteca",
-        "city": "Mexico City"
-      }
-    },
-    {
-      "id": 9062,
-      "date": "2026-07-01T18:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - K",
-      "home": {
-        "id": null,
-        "name": "Switzerland",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Saudi Arabia",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Estadio BBVA",
-        "city": "Monterrey"
-      }
-    },
-    {
-      "id": 9063,
-      "date": "2026-07-01T21:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - K",
-      "home": {
-        "id": null,
-        "name": "Switzerland",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Ghana",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Estadio Akron",
-        "city": "Guadalajara"
-      }
-    },
-    {
-      "id": 9064,
-      "date": "2026-07-02T15:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - K",
-      "home": {
-        "id": null,
-        "name": "Denmark",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Saudi Arabia",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "BC Place",
-        "city": "Vancouver"
-      }
-    },
-    {
-      "id": 9065,
-      "date": "2026-07-02T18:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - K",
-      "home": {
-        "id": null,
-        "name": "Denmark",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Ghana",
+        "name": "Iraq",
         "winner": null
       },
       "score": {
@@ -1564,18 +1228,18 @@
       }
     },
     {
-      "id": 9066,
-      "date": "2026-07-02T21:00:00+00:00",
+      "id": 9052,
+      "date": "2026-06-22T22:00:00+00:00",
       "status": "NS",
-      "round": "Group Stage - K",
+      "round": "Group Stage - I",
       "home": {
         "id": null,
-        "name": "Saudi Arabia",
+        "name": "Norway",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Ghana",
+        "name": "Senegal",
         "winner": null
       },
       "score": {
@@ -1583,23 +1247,23 @@
         "away": null
       },
       "venue": {
-        "name": "AT&T Stadium",
-        "city": "Dallas, TX"
+        "name": "Lincoln Financial Field",
+        "city": "Philadelphia, PA"
       }
     },
     {
-      "id": 9067,
-      "date": "2026-07-03T15:00:00+00:00",
+      "id": 9053,
+      "date": "2026-06-27T01:00:00+00:00",
       "status": "NS",
-      "round": "Group Stage - L",
+      "round": "Group Stage - I",
       "home": {
         "id": null,
-        "name": "Italy",
+        "name": "Norway",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Egypt",
+        "name": "France",
         "winner": null
       },
       "score": {
@@ -1607,23 +1271,23 @@
         "away": null
       },
       "venue": {
-        "name": "SoFi Stadium",
-        "city": "Los Angeles, CA"
+        "name": "Gillette Stadium",
+        "city": "Boston, MA"
       }
     },
     {
-      "id": 9068,
-      "date": "2026-07-03T18:00:00+00:00",
+      "id": 9054,
+      "date": "2026-06-27T01:00:00+00:00",
       "status": "NS",
-      "round": "Group Stage - L",
+      "round": "Group Stage - I",
       "home": {
         "id": null,
-        "name": "Italy",
+        "name": "Senegal",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Paraguay",
+        "name": "Iraq",
         "winner": null
       },
       "score": {
@@ -1631,47 +1295,23 @@
         "away": null
       },
       "venue": {
-        "name": "Rose Bowl",
-        "city": "Los Angeles, CA"
+        "name": "BMO Field",
+        "city": "Toronto"
       }
     },
     {
-      "id": 9069,
-      "date": "2026-07-03T21:00:00+00:00",
+      "id": 9055,
+      "date": "2026-06-16T18:00:00+00:00",
       "status": "NS",
-      "round": "Group Stage - L",
+      "round": "Group Stage - J",
       "home": {
         "id": null,
-        "name": "Italy",
+        "name": "Argentina",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Ivory Coast",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "Levi's Stadium",
-        "city": "San Francisco, CA"
-      }
-    },
-    {
-      "id": 9070,
-      "date": "2026-07-04T15:00:00+00:00",
-      "status": "NS",
-      "round": "Group Stage - L",
-      "home": {
-        "id": null,
-        "name": "Egypt",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "Paraguay",
+        "name": "Algeria",
         "winner": null
       },
       "score": {
@@ -1684,18 +1324,18 @@
       }
     },
     {
-      "id": 9071,
-      "date": "2026-07-04T18:00:00+00:00",
+      "id": 9056,
+      "date": "2026-06-16T22:00:00+00:00",
       "status": "NS",
-      "round": "Group Stage - L",
+      "round": "Group Stage - J",
       "home": {
         "id": null,
-        "name": "Egypt",
+        "name": "Austria",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Ivory Coast",
+        "name": "Jordan",
         "winner": null
       },
       "score": {
@@ -1703,23 +1343,383 @@
         "away": null
       },
       "venue": {
-        "name": "Empower Field at Mile High",
-        "city": "Denver, CO"
+        "name": "Levi's Stadium",
+        "city": "San Jose, CA"
+      }
+    },
+    {
+      "id": 9057,
+      "date": "2026-06-22T18:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - J",
+      "home": {
+        "id": null,
+        "name": "Argentina",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Austria",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "AT&T Stadium",
+        "city": "Dallas, TX"
+      }
+    },
+    {
+      "id": 9058,
+      "date": "2026-06-22T22:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - J",
+      "home": {
+        "id": null,
+        "name": "Jordan",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Algeria",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Levi's Stadium",
+        "city": "San Jose, CA"
+      }
+    },
+    {
+      "id": 9059,
+      "date": "2026-06-27T21:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - J",
+      "home": {
+        "id": null,
+        "name": "Jordan",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Argentina",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Arrowhead Stadium",
+        "city": "Kansas City, MO"
+      }
+    },
+    {
+      "id": 9060,
+      "date": "2026-06-27T21:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - J",
+      "home": {
+        "id": null,
+        "name": "Algeria",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Austria",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "AT&T Stadium",
+        "city": "Dallas, TX"
+      }
+    },
+    {
+      "id": 9061,
+      "date": "2026-06-17T18:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - K",
+      "home": {
+        "id": null,
+        "name": "Portugal",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "DR Congo",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "NRG Stadium",
+        "city": "Houston, TX"
+      }
+    },
+    {
+      "id": 9062,
+      "date": "2026-06-17T22:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - K",
+      "home": {
+        "id": null,
+        "name": "Uzbekistan",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Colombia",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Estadio Azteca",
+        "city": "Mexico City"
+      }
+    },
+    {
+      "id": 9063,
+      "date": "2026-06-23T18:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - K",
+      "home": {
+        "id": null,
+        "name": "Portugal",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Uzbekistan",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "NRG Stadium",
+        "city": "Houston, TX"
+      }
+    },
+    {
+      "id": 9064,
+      "date": "2026-06-23T22:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - K",
+      "home": {
+        "id": null,
+        "name": "Colombia",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "DR Congo",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Estadio Akron",
+        "city": "Guadalajara"
+      }
+    },
+    {
+      "id": 9065,
+      "date": "2026-06-27T17:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - K",
+      "home": {
+        "id": null,
+        "name": "Colombia",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Portugal",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Hard Rock Stadium",
+        "city": "Miami, FL"
+      }
+    },
+    {
+      "id": 9066,
+      "date": "2026-06-27T17:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - K",
+      "home": {
+        "id": null,
+        "name": "DR Congo",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Uzbekistan",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Mercedes-Benz Stadium",
+        "city": "Atlanta, GA"
+      }
+    },
+    {
+      "id": 9067,
+      "date": "2026-06-17T18:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - L",
+      "home": {
+        "id": null,
+        "name": "England",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Croatia",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "BMO Field",
+        "city": "Toronto"
+      }
+    },
+    {
+      "id": 9068,
+      "date": "2026-06-17T22:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - L",
+      "home": {
+        "id": null,
+        "name": "Ghana",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Panama",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "AT&T Stadium",
+        "city": "Dallas, TX"
+      }
+    },
+    {
+      "id": 9069,
+      "date": "2026-06-23T18:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - L",
+      "home": {
+        "id": null,
+        "name": "England",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Ghana",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Gillette Stadium",
+        "city": "Boston, MA"
+      }
+    },
+    {
+      "id": 9070,
+      "date": "2026-06-23T22:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - L",
+      "home": {
+        "id": null,
+        "name": "Panama",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "Croatia",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "BMO Field",
+        "city": "Toronto"
+      }
+    },
+    {
+      "id": 9071,
+      "date": "2026-06-28T01:00:00+00:00",
+      "status": "NS",
+      "round": "Group Stage - L",
+      "home": {
+        "id": null,
+        "name": "Panama",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "England",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "MetLife Stadium",
+        "city": "East Rutherford, NJ"
       }
     },
     {
       "id": 9072,
-      "date": "2026-07-04T21:00:00+00:00",
+      "date": "2026-06-28T01:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - L",
       "home": {
         "id": null,
-        "name": "Paraguay",
+        "name": "Croatia",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "Ivory Coast",
+        "name": "Ghana",
         "winner": null
       },
       "score": {
@@ -1727,23 +1727,23 @@
         "away": null
       },
       "venue": {
-        "name": "Lumen Field",
-        "city": "Seattle, WA"
+        "name": "Lincoln Financial Field",
+        "city": "Philadelphia, PA"
       }
     },
     {
       "id": 9073,
-      "date": "2026-06-29T15:00:00+00:00",
+      "date": "2026-06-28T18:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "home": {
         "id": null,
-        "name": "TBD (Round of 32 1A)",
+        "name": "TBD",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "TBD (Round of 32 1B)",
+        "name": "TBD",
         "winner": null
       },
       "score": {
@@ -1751,23 +1751,23 @@
         "away": null
       },
       "venue": {
-        "name": "MetLife Stadium",
-        "city": "East Rutherford, NJ"
+        "name": "SoFi Stadium",
+        "city": "Los Angeles, CA"
       }
     },
     {
       "id": 9074,
-      "date": "2026-06-29T19:00:00+00:00",
+      "date": "2026-06-28T22:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "home": {
         "id": null,
-        "name": "TBD (Round of 32 2A)",
+        "name": "TBD",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "TBD (Round of 32 2B)",
+        "name": "TBD",
         "winner": null
       },
       "score": {
@@ -1775,23 +1775,23 @@
         "away": null
       },
       "venue": {
-        "name": "MetLife Stadium",
-        "city": "East Rutherford, NJ"
+        "name": "Gillette Stadium",
+        "city": "Boston, MA"
       }
     },
     {
       "id": 9075,
-      "date": "2026-06-30T15:00:00+00:00",
+      "date": "2026-06-29T18:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "home": {
         "id": null,
-        "name": "TBD (Round of 32 3A)",
+        "name": "TBD",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "TBD (Round of 32 3B)",
+        "name": "TBD",
         "winner": null
       },
       "score": {
@@ -1799,23 +1799,23 @@
         "away": null
       },
       "venue": {
-        "name": "MetLife Stadium",
-        "city": "East Rutherford, NJ"
+        "name": "NRG Stadium",
+        "city": "Houston, TX"
       }
     },
     {
       "id": 9076,
-      "date": "2026-06-30T19:00:00+00:00",
+      "date": "2026-06-29T22:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "home": {
         "id": null,
-        "name": "TBD (Round of 32 4A)",
+        "name": "TBD",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "TBD (Round of 32 4B)",
+        "name": "TBD",
         "winner": null
       },
       "score": {
@@ -1823,23 +1823,23 @@
         "away": null
       },
       "venue": {
-        "name": "MetLife Stadium",
-        "city": "East Rutherford, NJ"
+        "name": "Estadio BBVA",
+        "city": "Monterrey"
       }
     },
     {
       "id": 9077,
-      "date": "2026-06-01T15:00:00+00:00",
+      "date": "2026-06-30T18:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "home": {
         "id": null,
-        "name": "TBD (Round of 32 5A)",
+        "name": "TBD",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "TBD (Round of 32 5B)",
+        "name": "TBD",
         "winner": null
       },
       "score": {
@@ -1853,113 +1853,17 @@
     },
     {
       "id": 9078,
-      "date": "2026-06-01T19:00:00+00:00",
-      "status": "NS",
-      "round": "Round of 32",
-      "home": {
-        "id": null,
-        "name": "TBD (Round of 32 6A)",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "TBD (Round of 32 6B)",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "MetLife Stadium",
-        "city": "East Rutherford, NJ"
-      }
-    },
-    {
-      "id": 9079,
-      "date": "2026-06-02T15:00:00+00:00",
-      "status": "NS",
-      "round": "Round of 32",
-      "home": {
-        "id": null,
-        "name": "TBD (Round of 32 7A)",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "TBD (Round of 32 7B)",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "MetLife Stadium",
-        "city": "East Rutherford, NJ"
-      }
-    },
-    {
-      "id": 9080,
-      "date": "2026-06-02T19:00:00+00:00",
-      "status": "NS",
-      "round": "Round of 32",
-      "home": {
-        "id": null,
-        "name": "TBD (Round of 32 8A)",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "TBD (Round of 32 8B)",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "MetLife Stadium",
-        "city": "East Rutherford, NJ"
-      }
-    },
-    {
-      "id": 9081,
-      "date": "2026-06-29T22:00:00+00:00",
-      "status": "NS",
-      "round": "Round of 32",
-      "home": {
-        "id": null,
-        "name": "TBD (Round of 32 9A)",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "TBD (Round of 32 9B)",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "MetLife Stadium",
-        "city": "East Rutherford, NJ"
-      }
-    },
-    {
-      "id": 9082,
       "date": "2026-06-30T22:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "home": {
         "id": null,
-        "name": "TBD (Round of 32 10A)",
+        "name": "TBD",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "TBD (Round of 32 10B)",
+        "name": "TBD",
         "winner": null
       },
       "score": {
@@ -1967,23 +1871,119 @@
         "away": null
       },
       "venue": {
-        "name": "MetLife Stadium",
-        "city": "East Rutherford, NJ"
+        "name": "AT&T Stadium",
+        "city": "Dallas, TX"
+      }
+    },
+    {
+      "id": 9079,
+      "date": "2026-07-01T18:00:00+00:00",
+      "status": "NS",
+      "round": "Round of 32",
+      "home": {
+        "id": null,
+        "name": "TBD",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "TBD",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Mercedes-Benz Stadium",
+        "city": "Atlanta, GA"
+      }
+    },
+    {
+      "id": 9080,
+      "date": "2026-07-01T22:00:00+00:00",
+      "status": "NS",
+      "round": "Round of 32",
+      "home": {
+        "id": null,
+        "name": "TBD",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "TBD",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Levi's Stadium",
+        "city": "San Jose, CA"
+      }
+    },
+    {
+      "id": 9081,
+      "date": "2026-07-02T18:00:00+00:00",
+      "status": "NS",
+      "round": "Round of 32",
+      "home": {
+        "id": null,
+        "name": "TBD",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "TBD",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "BMO Field",
+        "city": "Toronto"
+      }
+    },
+    {
+      "id": 9082,
+      "date": "2026-07-02T22:00:00+00:00",
+      "status": "NS",
+      "round": "Round of 32",
+      "home": {
+        "id": null,
+        "name": "TBD",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "TBD",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "BC Place",
+        "city": "Vancouver"
       }
     },
     {
       "id": 9083,
-      "date": "2026-06-01T22:00:00+00:00",
+      "date": "2026-07-03T18:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "home": {
         "id": null,
-        "name": "TBD (Round of 32 11A)",
+        "name": "TBD",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "TBD (Round of 32 11B)",
+        "name": "TBD",
         "winner": null
       },
       "score": {
@@ -1991,23 +1991,23 @@
         "away": null
       },
       "venue": {
-        "name": "MetLife Stadium",
-        "city": "East Rutherford, NJ"
+        "name": "Lumen Field",
+        "city": "Seattle, WA"
       }
     },
     {
       "id": 9084,
-      "date": "2026-06-02T22:00:00+00:00",
+      "date": "2026-07-03T22:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "home": {
         "id": null,
-        "name": "TBD (Round of 32 12A)",
+        "name": "TBD",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "TBD (Round of 32 12B)",
+        "name": "TBD",
         "winner": null
       },
       "score": {
@@ -2015,23 +2015,23 @@
         "away": null
       },
       "venue": {
-        "name": "MetLife Stadium",
-        "city": "East Rutherford, NJ"
+        "name": "Hard Rock Stadium",
+        "city": "Miami, FL"
       }
     },
     {
       "id": 9085,
-      "date": "2026-06-29T18:00:00+00:00",
+      "date": "2026-07-04T00:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "home": {
         "id": null,
-        "name": "TBD (Round of 32 13A)",
+        "name": "TBD",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "TBD (Round of 32 13B)",
+        "name": "TBD",
         "winner": null
       },
       "score": {
@@ -2039,23 +2039,23 @@
         "away": null
       },
       "venue": {
-        "name": "MetLife Stadium",
-        "city": "East Rutherford, NJ"
+        "name": "Estadio Azteca",
+        "city": "Mexico City"
       }
     },
     {
       "id": 9086,
-      "date": "2026-06-30T18:00:00+00:00",
+      "date": "2026-07-04T18:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "home": {
         "id": null,
-        "name": "TBD (Round of 32 14A)",
+        "name": "TBD",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "TBD (Round of 32 14B)",
+        "name": "TBD",
         "winner": null
       },
       "score": {
@@ -2063,23 +2063,23 @@
         "away": null
       },
       "venue": {
-        "name": "MetLife Stadium",
-        "city": "East Rutherford, NJ"
+        "name": "Arrowhead Stadium",
+        "city": "Kansas City, MO"
       }
     },
     {
       "id": 9087,
-      "date": "2026-06-01T18:00:00+00:00",
+      "date": "2026-07-04T22:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "home": {
         "id": null,
-        "name": "TBD (Round of 32 15A)",
+        "name": "TBD",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "TBD (Round of 32 15B)",
+        "name": "TBD",
         "winner": null
       },
       "score": {
@@ -2087,23 +2087,23 @@
         "away": null
       },
       "venue": {
-        "name": "MetLife Stadium",
-        "city": "East Rutherford, NJ"
+        "name": "Lincoln Financial Field",
+        "city": "Philadelphia, PA"
       }
     },
     {
       "id": 9088,
-      "date": "2026-06-02T18:00:00+00:00",
+      "date": "2026-07-05T02:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "home": {
         "id": null,
-        "name": "TBD (Round of 32 16A)",
+        "name": "TBD",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "TBD (Round of 32 16B)",
+        "name": "TBD",
         "winner": null
       },
       "score": {
@@ -2111,71 +2111,23 @@
         "away": null
       },
       "venue": {
-        "name": "MetLife Stadium",
-        "city": "East Rutherford, NJ"
+        "name": "Estadio Akron",
+        "city": "Guadalajara"
       }
     },
     {
       "id": 9089,
-      "date": "2026-07-04T18:00:00+00:00",
-      "status": "NS",
-      "round": "Round of 16",
-      "home": {
-        "id": null,
-        "name": "TBD (Round of 16 1A)",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "TBD (Round of 16 1B)",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "AT&T Stadium",
-        "city": "Dallas, TX"
-      }
-    },
-    {
-      "id": 9090,
-      "date": "2026-07-04T22:00:00+00:00",
-      "status": "NS",
-      "round": "Round of 16",
-      "home": {
-        "id": null,
-        "name": "TBD (Round of 16 2A)",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "TBD (Round of 16 2B)",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "AT&T Stadium",
-        "city": "Dallas, TX"
-      }
-    },
-    {
-      "id": 9091,
       "date": "2026-07-05T18:00:00+00:00",
       "status": "NS",
       "round": "Round of 16",
       "home": {
         "id": null,
-        "name": "TBD (Round of 16 3A)",
+        "name": "TBD",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "TBD (Round of 16 3B)",
+        "name": "TBD",
         "winner": null
       },
       "score": {
@@ -2183,23 +2135,23 @@
         "away": null
       },
       "venue": {
-        "name": "AT&T Stadium",
-        "city": "Dallas, TX"
+        "name": "NRG Stadium",
+        "city": "Houston, TX"
       }
     },
     {
-      "id": 9092,
+      "id": 9090,
       "date": "2026-07-05T22:00:00+00:00",
       "status": "NS",
       "round": "Round of 16",
       "home": {
         "id": null,
-        "name": "TBD (Round of 16 4A)",
+        "name": "TBD",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "TBD (Round of 16 4B)",
+        "name": "TBD",
         "winner": null
       },
       "score": {
@@ -2207,23 +2159,71 @@
         "away": null
       },
       "venue": {
-        "name": "AT&T Stadium",
-        "city": "Dallas, TX"
+        "name": "MetLife Stadium",
+        "city": "East Rutherford, NJ"
       }
     },
     {
-      "id": 9093,
+      "id": 9091,
       "date": "2026-07-06T18:00:00+00:00",
       "status": "NS",
       "round": "Round of 16",
       "home": {
         "id": null,
-        "name": "TBD (Round of 16 5A)",
+        "name": "TBD",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "TBD (Round of 16 5B)",
+        "name": "TBD",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Levi's Stadium",
+        "city": "San Jose, CA"
+      }
+    },
+    {
+      "id": 9092,
+      "date": "2026-07-06T22:00:00+00:00",
+      "status": "NS",
+      "round": "Round of 16",
+      "home": {
+        "id": null,
+        "name": "TBD",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "TBD",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Estadio Azteca",
+        "city": "Mexico City"
+      }
+    },
+    {
+      "id": 9093,
+      "date": "2026-07-07T18:00:00+00:00",
+      "status": "NS",
+      "round": "Round of 16",
+      "home": {
+        "id": null,
+        "name": "TBD",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "TBD",
         "winner": null
       },
       "score": {
@@ -2237,65 +2237,17 @@
     },
     {
       "id": 9094,
-      "date": "2026-07-06T22:00:00+00:00",
-      "status": "NS",
-      "round": "Round of 16",
-      "home": {
-        "id": null,
-        "name": "TBD (Round of 16 6A)",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "TBD (Round of 16 6B)",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "AT&T Stadium",
-        "city": "Dallas, TX"
-      }
-    },
-    {
-      "id": 9095,
-      "date": "2026-07-07T18:00:00+00:00",
-      "status": "NS",
-      "round": "Round of 16",
-      "home": {
-        "id": null,
-        "name": "TBD (Round of 16 7A)",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "TBD (Round of 16 7B)",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "AT&T Stadium",
-        "city": "Dallas, TX"
-      }
-    },
-    {
-      "id": 9096,
       "date": "2026-07-07T22:00:00+00:00",
       "status": "NS",
       "round": "Round of 16",
       "home": {
         "id": null,
-        "name": "TBD (Round of 16 8A)",
+        "name": "TBD",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "TBD (Round of 16 8B)",
+        "name": "TBD",
         "winner": null
       },
       "score": {
@@ -2303,23 +2255,71 @@
         "away": null
       },
       "venue": {
-        "name": "AT&T Stadium",
-        "city": "Dallas, TX"
+        "name": "Lumen Field",
+        "city": "Seattle, WA"
+      }
+    },
+    {
+      "id": 9095,
+      "date": "2026-07-08T18:00:00+00:00",
+      "status": "NS",
+      "round": "Round of 16",
+      "home": {
+        "id": null,
+        "name": "TBD",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "TBD",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Mercedes-Benz Stadium",
+        "city": "Atlanta, GA"
+      }
+    },
+    {
+      "id": 9096,
+      "date": "2026-07-08T22:00:00+00:00",
+      "status": "NS",
+      "round": "Round of 16",
+      "home": {
+        "id": null,
+        "name": "TBD",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "TBD",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Lincoln Financial Field",
+        "city": "Philadelphia, PA"
       }
     },
     {
       "id": 9097,
-      "date": "2026-07-09T18:00:00+00:00",
+      "date": "2026-07-09T22:00:00+00:00",
       "status": "NS",
       "round": "Quarter-finals",
       "home": {
         "id": null,
-        "name": "TBD (Quarter-finals 1A)",
+        "name": "TBD",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "TBD (Quarter-finals 1B)",
+        "name": "TBD",
         "winner": null
       },
       "score": {
@@ -2327,23 +2327,23 @@
         "away": null
       },
       "venue": {
-        "name": "SoFi Stadium",
-        "city": "Los Angeles, CA"
+        "name": "Gillette Stadium",
+        "city": "Boston, MA"
       }
     },
     {
       "id": 9098,
-      "date": "2026-07-10T18:00:00+00:00",
+      "date": "2026-07-10T22:00:00+00:00",
       "status": "NS",
       "round": "Quarter-finals",
       "home": {
         "id": null,
-        "name": "TBD (Quarter-finals 2A)",
+        "name": "TBD",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "TBD (Quarter-finals 2B)",
+        "name": "TBD",
         "winner": null
       },
       "score": {
@@ -2362,12 +2362,12 @@
       "round": "Quarter-finals",
       "home": {
         "id": null,
-        "name": "TBD (Quarter-finals 3A)",
+        "name": "TBD",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "TBD (Quarter-finals 3B)",
+        "name": "TBD",
         "winner": null
       },
       "score": {
@@ -2375,23 +2375,23 @@
         "away": null
       },
       "venue": {
-        "name": "SoFi Stadium",
-        "city": "Los Angeles, CA"
+        "name": "Hard Rock Stadium",
+        "city": "Miami, FL"
       }
     },
     {
       "id": 9100,
-      "date": "2026-07-12T18:00:00+00:00",
+      "date": "2026-07-11T22:00:00+00:00",
       "status": "NS",
       "round": "Quarter-finals",
       "home": {
         "id": null,
-        "name": "TBD (Quarter-finals 4A)",
+        "name": "TBD",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "TBD (Quarter-finals 4B)",
+        "name": "TBD",
         "winner": null
       },
       "score": {
@@ -2399,8 +2399,8 @@
         "away": null
       },
       "venue": {
-        "name": "SoFi Stadium",
-        "city": "Los Angeles, CA"
+        "name": "Arrowhead Stadium",
+        "city": "Kansas City, MO"
       }
     },
     {
@@ -2410,36 +2410,12 @@
       "round": "Semi-finals",
       "home": {
         "id": null,
-        "name": "TBD (Semi-finals 1A)",
+        "name": "TBD",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "TBD (Semi-finals 1B)",
-        "winner": null
-      },
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "venue": {
-        "name": "MetLife Stadium",
-        "city": "East Rutherford, NJ"
-      }
-    },
-    {
-      "id": 9102,
-      "date": "2026-07-15T22:00:00+00:00",
-      "status": "NS",
-      "round": "Semi-finals",
-      "home": {
-        "id": null,
-        "name": "TBD (Semi-finals 2A)",
-        "winner": null
-      },
-      "away": {
-        "id": null,
-        "name": "TBD (Semi-finals 2B)",
+        "name": "TBD",
         "winner": null
       },
       "score": {
@@ -2452,18 +2428,42 @@
       }
     },
     {
+      "id": 9102,
+      "date": "2026-07-15T22:00:00+00:00",
+      "status": "NS",
+      "round": "Semi-finals",
+      "home": {
+        "id": null,
+        "name": "TBD",
+        "winner": null
+      },
+      "away": {
+        "id": null,
+        "name": "TBD",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "venue": {
+        "name": "Mercedes-Benz Stadium",
+        "city": "Atlanta, GA"
+      }
+    },
+    {
       "id": 9103,
       "date": "2026-07-18T19:00:00+00:00",
       "status": "NS",
       "round": "3rd Place Final",
       "home": {
         "id": null,
-        "name": "TBD (3rd Place Final 1A)",
+        "name": "TBD",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "TBD (3rd Place Final 1B)",
+        "name": "TBD",
         "winner": null
       },
       "score": {
@@ -2477,17 +2477,17 @@
     },
     {
       "id": 9104,
-      "date": "2026-07-19T20:00:00+00:00",
+      "date": "2026-07-19T19:00:00+00:00",
       "status": "NS",
       "round": "Final",
       "home": {
         "id": null,
-        "name": "TBD (Final 1A)",
+        "name": "TBD",
         "winner": null
       },
       "away": {
         "id": null,
-        "name": "TBD (Final 1B)",
+        "name": "TBD",
         "winner": null
       },
       "score": {
