@@ -14,6 +14,10 @@ permissions:
   pages: write
   id-token: write
 
+env:
+  # Força Node.js 24 nas actions (remove o deprecation warning do Node 20)
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   update-calendar:
     name: Buscar jogos e gerar ICS
@@ -34,12 +38,26 @@ jobs:
       - name: Instalar dependências
         run: pip install -r requirements.txt
 
+      - name: Verificar API key configurada
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: |
+          if [ -z "$API_FOOTBALL_KEY" ]; then
+            echo "::error::Secret API_FOOTBALL_KEY não está configurado!"
+            echo "Acesse: Settings → Secrets → Actions → New repository secret"
+            exit 1
+          fi
+          echo "API key detectada (${#API_FOOTBALL_KEY} caracteres)"
+
       - name: Buscar fixtures da API
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          PYTHONPATH: .
         run: python scripts/fetch_matches.py
 
       - name: Gerar worldcup.ics
+        env:
+          PYTHONPATH: .
         run: python scripts/build_calendar.py
 
       - name: Commitar dados atualizados

@@ -50,17 +50,46 @@ def fetch_fixtures(api_key: str) -> list[dict]:
 
     print(f"[fetch] GET {url} | league={params['league']} season={params['season']}")
 
-    response = requests.get(url, headers=headers, params=params, timeout=30)
-    response.raise_for_status()
+    try:
+        response = requests.get(url, headers=headers, params=params, timeout=30)
+    except requests.exceptions.RequestException as exc:
+        print(f"[fetch] Falha na requisição HTTP: {exc}", file=sys.stderr)
+        sys.exit(1)
+
+    print(f"[fetch] HTTP {response.status_code}")
+
+    if not response.ok:
+        print(f"[fetch] Erro HTTP {response.status_code}:", file=sys.stderr)
+        print(response.text[:500], file=sys.stderr)
+        response.raise_for_status()
 
     body = response.json()
 
+    # API-Football retorna erros como {"errors": {"token": "..."}}
     if body.get("errors"):
-        print(f"[fetch] Erros retornados pela API: {body['errors']}", file=sys.stderr)
+        errors = body["errors"]
+        print(f"[fetch] Erro retornado pela API: {errors}", file=sys.stderr)
+        if "token" in str(errors).lower() or "key" in str(errors).lower():
+            print(
+                "[fetch] Verifique se o secret API_FOOTBALL_KEY está correto no GitHub.",
+                file=sys.stderr,
+            )
         sys.exit(1)
+
+    # Informações de quota (útil para debug)
+    remaining = response.headers.get("x-ratelimit-requests-remaining", "?")
+    print(f"[fetch] Requisições restantes na cota: {remaining}")
 
     fixtures: list[dict] = body.get("response", [])
     print(f"[fetch] {len(fixtures)} fixtures recebidos.")
+
+    if len(fixtures) == 0:
+        print(
+            f"[fetch] AVISO: Nenhum fixture encontrado para league={config.WORLD_CUP_LEAGUE_ID} "
+            f"season={config.WORLD_CUP_SEASON}. Verifique o ID da liga na API.",
+            file=sys.stderr,
+        )
+
     return fixtures
 
 
