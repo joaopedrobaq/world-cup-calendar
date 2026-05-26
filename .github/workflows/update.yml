@@ -1,6 +1,8 @@
 name: Atualizar Calendário Copa 2026
 
 on:
+  push:
+    branches: [main]
   schedule:
     # Executa a cada 6 horas
     - cron: "0 */6 * * *"
@@ -16,6 +18,8 @@ jobs:
   update-calendar:
     name: Buscar jogos e gerar ICS
     runs-on: ubuntu-latest
+    # Ignora commits automáticos do próprio workflow para evitar loop infinito
+    if: github.actor != 'github-actions[bot]'
 
     steps:
       - name: Checkout do repositório
