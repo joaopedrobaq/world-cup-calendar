@@ -53,12 +53,12 @@ jobs:
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
           PYTHONPATH: .
-        run: python scripts/fetch_matches.py
+        run: python -u scripts/fetch_matches.py
 
       - name: Gerar worldcup.ics
         env:
           PYTHONPATH: .
-        run: python scripts/build_calendar.py
+        run: python -u scripts/build_calendar.py
 
       - name: Commitar dados atualizados
         run: |
