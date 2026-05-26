@@ -38,7 +38,7 @@ UID_DOMAIN: str = "worldcup2026.joaopedrobaq.github.io"
 
 BASE_DIR: str = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR: str = os.path.join(BASE_DIR, "data")
-OUTPUT_DIR: str = os.path.join(BASE_DIR, "output")
+OUTPUT_DIR: str = os.path.join(BASE_DIR, "docs")
 
 FIXTURES_FILE: str = os.path.join(DATA_DIR, "fixtures.json")
 BROADCASTS_FILE: str = os.path.join(DATA_DIR, "broadcasts.json")

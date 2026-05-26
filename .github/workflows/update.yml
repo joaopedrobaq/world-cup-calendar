@@ -48,6 +48,6 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/fixtures.json data/cache.json output/worldcup.ics
+          git add data/fixtures.json data/cache.json docs/worldcup.ics
           git diff --cached --quiet || git commit -m "chore: atualiza calendario $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
           git push
