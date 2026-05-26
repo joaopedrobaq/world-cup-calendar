@@ -6,15 +6,13 @@ Todas as constantes e leituras de ambiente ficam aqui.
 import os
 
 # ---------------------------------------------------------------------------
-# API-Football
+# API-Football (reservado para uso futuro com plano pago)
 # ---------------------------------------------------------------------------
 
 API_KEY: str = os.environ.get("API_FOOTBALL_KEY", "")
 API_HOST: str = "v3.football.api-sports.io"
 API_BASE_URL: str = f"https://{API_HOST}"
 
-# ID da liga Copa do Mundo 2026 na API-Football
-# 1: FIFA World Cup  (verificar antes do torneio se o ID mudou)
 WORLD_CUP_LEAGUE_ID: int = 1
 WORLD_CUP_SEASON: int = 2026
 
@@ -28,8 +26,6 @@ CALENDAR_DESCRIPTION: str = (
     "estádios e transmissões no Brasil."
 )
 CALENDAR_TIMEZONE: str = "UTC"
-
-# UID base para eventos — garante que re-importações não dupliquem no Google Calendar
 UID_DOMAIN: str = "worldcup2026.joaopedrobaq.github.io"
 
 # ---------------------------------------------------------------------------
@@ -46,75 +42,74 @@ CACHE_FILE: str = os.path.join(DATA_DIR, "cache.json")
 OUTPUT_ICS: str = os.path.join(OUTPUT_DIR, "worldcup.ics")
 
 # ---------------------------------------------------------------------------
-# Transmissão padrão (fallback quando fixture não está mapeado)
+# Transmissão padrão
 # ---------------------------------------------------------------------------
 
 DEFAULT_BROADCASTS: list[str] = ["SporTV", "CazéTV"]
 
 # ---------------------------------------------------------------------------
-# Bandeiras por país (ISO 3166-1 alpha-2 → emoji)
-# Expandir conforme os 48 classificados forem conhecidos.
+# Bandeiras por país — chaves em PORTUGUÊS (nomes usados nos fixtures)
 # ---------------------------------------------------------------------------
 
 COUNTRY_FLAGS: dict[str, str] = {
     # Grupo A
-    "Mexico": "🇲🇽",
-    "South Africa": "🇿🇦",
-    "South Korea": "🇰🇷",
-    "Czech Republic": "🇨🇿",
+    "México":              "🇲🇽",
+    "África do Sul":       "🇿🇦",
+    "Coreia do Sul":       "🇰🇷",
+    "República Tcheca":    "🇨🇿",
     # Grupo B
-    "Canada": "🇨🇦",
-    "Bosnia & Herzegovina": "🇧🇦",
-    "Qatar": "🇶🇦",
-    "Switzerland": "🇨🇭",
+    "Canadá":              "🇨🇦",
+    "Bósnia e Herzegovina":"🇧🇦",
+    "Qatar":               "🇶🇦",
+    "Suíça":               "🇨🇭",
     # Grupo C
-    "Brazil": "🇧🇷",
-    "Morocco": "🇲🇦",
-    "Haiti": "🇭🇹",
-    "Scotland": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "Brasil":              "🇧🇷",
+    "Marrocos":            "🇲🇦",
+    "Haiti":               "🇭🇹",
+    "Escócia":             "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
     # Grupo D
-    "USA": "🇺🇸",
-    "Paraguay": "🇵🇾",
-    "Australia": "🇦🇺",
-    "Turkey": "🇹🇷",
+    "EUA":                 "🇺🇸",
+    "Paraguai":            "🇵🇾",
+    "Austrália":           "🇦🇺",
+    "Turquia":             "🇹🇷",
     # Grupo E
-    "Germany": "🇩🇪",
-    "Curacao": "🇨🇼",
-    "Ivory Coast": "🇨🇮",
-    "Ecuador": "🇪🇨",
+    "Alemanha":            "🇩🇪",
+    "Curaçao":             "🇨🇼",
+    "Costa do Marfim":     "🇨🇮",
+    "Equador":             "🇪🇨",
     # Grupo F
-    "Netherlands": "🇳🇱",
-    "Japan": "🇯🇵",
-    "Sweden": "🇸🇪",
-    "Tunisia": "🇹🇳",
+    "Países Baixos":       "🇳🇱",
+    "Japão":               "🇯🇵",
+    "Suécia":              "🇸🇪",
+    "Tunísia":             "🇹🇳",
     # Grupo G
-    "Belgium": "🇧🇪",
-    "Egypt": "🇪🇬",
-    "Iran": "🇮🇷",
-    "New Zealand": "🇳🇿",
+    "Bélgica":             "🇧🇪",
+    "Egito":               "🇪🇬",
+    "Irã":                 "🇮🇷",
+    "Nova Zelândia":       "🇳🇿",
     # Grupo H
-    "Spain": "🇪🇸",
-    "Cape Verde": "🇨🇻",
-    "Saudi Arabia": "🇸🇦",
-    "Uruguay": "🇺🇾",
+    "Espanha":             "🇪🇸",
+    "Cabo Verde":          "🇨🇻",
+    "Arábia Saudita":      "🇸🇦",
+    "Uruguai":             "🇺🇾",
     # Grupo I
-    "France": "🇫🇷",
-    "Senegal": "🇸🇳",
-    "Iraq": "🇮🇶",
-    "Norway": "🇳🇴",
+    "França":              "🇫🇷",
+    "Senegal":             "🇸🇳",
+    "Iraque":              "🇮🇶",
+    "Noruega":             "🇳🇴",
     # Grupo J
-    "Argentina": "🇦🇷",
-    "Algeria": "🇩🇿",
-    "Austria": "🇦🇹",
-    "Jordan": "🇯🇴",
+    "Argentina":           "🇦🇷",
+    "Argélia":             "🇩🇿",
+    "Áustria":             "🇦🇹",
+    "Jordânia":            "🇯🇴",
     # Grupo K
-    "Portugal": "🇵🇹",
-    "DR Congo": "🇨🇩",
-    "Uzbekistan": "🇺🇿",
-    "Colombia": "🇨🇴",
+    "Portugal":            "🇵🇹",
+    "Congo DR":            "🇨🇩",
+    "Uzbequistão":         "🇺🇿",
+    "Colômbia":            "🇨🇴",
     # Grupo L
-    "England": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "Croatia": "🇭🇷",
-    "Ghana": "🇬🇭",
-    "Panama": "🇵🇦",
+    "Inglaterra":          "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "Croácia":             "🇭🇷",
+    "Gana":                "🇬🇭",
+    "Panamá":              "🇵🇦",
 }

@@ -76,18 +76,31 @@ def resolve_team_name(team: dict) -> str:
     return name
 
 
+def _is_placeholder(name: str) -> bool:
+    """
+    Retorna True se o nome é um placeholder de chaveamento
+    (ex: '1º A', 'Ven. J73', 'Perd. J101', '3º (A/B/C/D/F)').
+    Esses nomes não recebem bandeira mas são exibidos como estão.
+    """
+    markers = ("1º", "2º", "3º", "ven.", "perd.", "tbd")
+    return any(name.lower().startswith(m) for m in markers)
+
+
 def build_event_title(fixture: dict) -> str:
     """
     Determina o título mais informativo possível para o jogo:
 
-    - Ambos conhecidos  → 'Brasil 🇧🇷 x 🇫🇷 França'
-    - Um desconhecido   → 'Brasil 🇧🇷 x 2º Grupo B'   (placeholder do outro)
-    - Nenhum conhecido  → placeholder completo da rodada
+    - Times definidos    → 'Brasil 🇧🇷 x 🇫🇷 França'
+    - Placeholders mata-mata → '1º A x 2º B'  /  'Ven. J73 x Ven. J75'
+    - Nada definido      → nome da fase
     """
     home = resolve_team_name(fixture.get("home", {}))
     away = resolve_team_name(fixture.get("away", {}))
 
-    # Placeholder extraído do campo 'round' quando times ainda não definidos
+    # Placeholders de chaveamento: exibe sem bandeira, separado por " x "
+    if home and away and (_is_placeholder(home) or _is_placeholder(away)):
+        return f"{home} x {away}"
+
     round_raw = fixture.get("round", "")
     placeholder = _round_placeholder(round_raw)
 
@@ -98,7 +111,6 @@ def build_event_title(fixture: dict) -> str:
     if not home and away:
         return f"{placeholder} x {format_match_title('', away)}".strip("x ").strip()
 
-    # Nenhum time definido — usa placeholder genérico da fase
     return placeholder or f"Jogo {fixture.get('id', '')}"
 
 
