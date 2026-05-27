@@ -1,25 +1,28 @@
 # 🏆 Copa do Mundo 2026 — Calendário ICS
 
-Calendário automático da Copa do Mundo 2026 para Google Calendar (e qualquer app compatível com `.ics`).
+Calendário automático da Copa do Mundo 2026 para Google Calendar, Apple Calendar e qualquer app compatível com `.ics`.
 
 Atualizado automaticamente a cada 6 horas via GitHub Actions.
 
 ---
 
-## Assinar no Google Calendar
+## Adicionar ao seu calendário
 
-1. Copie a URL pública do calendário:
+[![Adicionar ao Google Calendar](https://img.shields.io/badge/Google%20Calendar-Adicionar%20Calendário-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendar.google.com/calendar/r/settings/addbyurl?url=https%3A%2F%2Fjoaopedrobaq.github.io%2Fworld-cup-calendar%2Fworldcup.ics)
 
-   ```
-   https://joaopedrobaq.github.io/world-cup-calendar/worldcup.ics
-   ```
+[![Adicionar ao Apple Calendar (iOS / macOS)](https://img.shields.io/badge/Apple%20Calendar-Adicionar%20Calendário-000000?style=for-the-badge&logo=apple&logoColor=white)](webcal://joaopedrobaq.github.io/world-cup-calendar/worldcup.ics)
 
-2. Abra o [Google Calendar](https://calendar.google.com).
-3. No painel esquerdo, clique em **"Outros calendários" → "De URL"**.
-4. Cole a URL acima e clique em **"Adicionar calendário"**.
-5. O calendário aparece e sincroniza automaticamente.
-
+> **iOS/macOS:** o link acima abre diretamente no app Calendário e pergunta se deseja assinar.  
+> **Google Calendar:** você será redirecionado para a página de adicionar por URL, já preenchida.  
 > O Google Cache leva até 24h para atualizar — se precisar forçar, remova e adicione novamente.
+
+### Adicionar manualmente (qualquer app)
+
+Cole esta URL no seu app de calendário em **"Assinar por URL"** ou **"Adicionar calendário de internet"**:
+
+```
+https://joaopedrobaq.github.io/world-cup-calendar/worldcup.ics
+```
 
 ---
 
