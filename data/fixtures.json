@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-26T23:55:43.882835+00:00",
+  "updated_at": "2026-06-08T17:07:59.657310+00:00",
   "source": "static",
   "total": 104,
   "fixtures": [
     {
       "id": 9001,
-      "date": "2026-06-11T18:00:00+00:00",
+      "date": "2026-06-11T19:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - A",
       "home": {
@@ -29,7 +29,7 @@
     },
     {
       "id": 9002,
-      "date": "2026-06-11T22:00:00+00:00",
+      "date": "2026-06-12T02:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - A",
       "home": {
@@ -53,7 +53,7 @@
     },
     {
       "id": 9003,
-      "date": "2026-06-18T18:00:00+00:00",
+      "date": "2026-06-18T16:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - A",
       "home": {
@@ -77,7 +77,7 @@
     },
     {
       "id": 9004,
-      "date": "2026-06-18T22:00:00+00:00",
+      "date": "2026-06-19T01:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - A",
       "home": {
@@ -101,7 +101,7 @@
     },
     {
       "id": 9005,
-      "date": "2026-06-24T21:00:00+00:00",
+      "date": "2026-06-25T01:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - A",
       "home": {
@@ -125,7 +125,7 @@
     },
     {
       "id": 9006,
-      "date": "2026-06-24T21:00:00+00:00",
+      "date": "2026-06-25T01:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - A",
       "home": {
@@ -149,7 +149,7 @@
     },
     {
       "id": 9007,
-      "date": "2026-06-12T18:00:00+00:00",
+      "date": "2026-06-12T19:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - B",
       "home": {
@@ -173,7 +173,7 @@
     },
     {
       "id": 9008,
-      "date": "2026-06-12T22:00:00+00:00",
+      "date": "2026-06-13T19:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - B",
       "home": {
@@ -197,7 +197,7 @@
     },
     {
       "id": 9009,
-      "date": "2026-06-18T18:00:00+00:00",
+      "date": "2026-06-18T19:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - B",
       "home": {
@@ -245,7 +245,7 @@
     },
     {
       "id": 9011,
-      "date": "2026-06-24T17:00:00+00:00",
+      "date": "2026-06-24T19:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - B",
       "home": {
@@ -269,7 +269,7 @@
     },
     {
       "id": 9012,
-      "date": "2026-06-24T17:00:00+00:00",
+      "date": "2026-06-24T19:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - B",
       "home": {
@@ -293,7 +293,7 @@
     },
     {
       "id": 9013,
-      "date": "2026-06-13T18:00:00+00:00",
+      "date": "2026-06-13T22:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - C",
       "home": {
@@ -311,13 +311,13 @@
         "away": null
       },
       "venue": {
-        "name": "Gillette Stadium",
-        "city": "Foxborough, MA"
+        "name": "MetLife Stadium",
+        "city": "East Rutherford, NJ"
       }
     },
     {
       "id": 9014,
-      "date": "2026-06-13T22:00:00+00:00",
+      "date": "2026-06-14T01:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - C",
       "home": {
@@ -335,13 +335,13 @@
         "away": null
       },
       "venue": {
-        "name": "MetLife Stadium",
-        "city": "East Rutherford, NJ"
+        "name": "Gillette Stadium",
+        "city": "Foxborough, MA"
       }
     },
     {
       "id": 9015,
-      "date": "2026-06-19T18:00:00+00:00",
+      "date": "2026-06-20T00:30:00+00:00",
       "status": "NS",
       "round": "Group Stage - C",
       "home": {
@@ -389,7 +389,7 @@
     },
     {
       "id": 9017,
-      "date": "2026-06-25T01:00:00+00:00",
+      "date": "2026-06-24T22:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - C",
       "home": {
@@ -413,7 +413,7 @@
     },
     {
       "id": 9018,
-      "date": "2026-06-25T01:00:00+00:00",
+      "date": "2026-06-24T22:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - C",
       "home": {
@@ -437,7 +437,7 @@
     },
     {
       "id": 9019,
-      "date": "2026-06-12T18:00:00+00:00",
+      "date": "2026-06-13T01:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - D",
       "home": {
@@ -461,7 +461,7 @@
     },
     {
       "id": 9020,
-      "date": "2026-06-12T22:00:00+00:00",
+      "date": "2026-06-14T04:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - D",
       "home": {
@@ -485,7 +485,7 @@
     },
     {
       "id": 9021,
-      "date": "2026-06-19T18:00:00+00:00",
+      "date": "2026-06-20T03:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - D",
       "home": {
@@ -509,7 +509,7 @@
     },
     {
       "id": 9022,
-      "date": "2026-06-19T22:00:00+00:00",
+      "date": "2026-06-19T19:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - D",
       "home": {
@@ -533,7 +533,7 @@
     },
     {
       "id": 9023,
-      "date": "2026-06-25T21:00:00+00:00",
+      "date": "2026-06-26T02:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - D",
       "home": {
@@ -557,7 +557,7 @@
     },
     {
       "id": 9024,
-      "date": "2026-06-25T21:00:00+00:00",
+      "date": "2026-06-26T02:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - D",
       "home": {
@@ -581,7 +581,7 @@
     },
     {
       "id": 9025,
-      "date": "2026-06-14T18:00:00+00:00",
+      "date": "2026-06-14T17:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - E",
       "home": {
@@ -599,13 +599,13 @@
         "away": null
       },
       "venue": {
-        "name": "Lincoln Financial Field",
-        "city": "Philadelphia, PA"
+        "name": "NRG Stadium",
+        "city": "Houston, TX"
       }
     },
     {
       "id": 9026,
-      "date": "2026-06-14T22:00:00+00:00",
+      "date": "2026-06-14T23:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - E",
       "home": {
@@ -623,13 +623,13 @@
         "away": null
       },
       "venue": {
-        "name": "NRG Stadium",
-        "city": "Houston, TX"
+        "name": "Lincoln Financial Field",
+        "city": "Philadelphia, PA"
       }
     },
     {
       "id": 9027,
-      "date": "2026-06-20T18:00:00+00:00",
+      "date": "2026-06-20T20:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - E",
       "home": {
@@ -653,7 +653,7 @@
     },
     {
       "id": 9028,
-      "date": "2026-06-20T22:00:00+00:00",
+      "date": "2026-06-21T00:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - E",
       "home": {
@@ -677,7 +677,7 @@
     },
     {
       "id": 9029,
-      "date": "2026-06-25T17:00:00+00:00",
+      "date": "2026-06-25T20:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - E",
       "home": {
@@ -695,13 +695,13 @@
         "away": null
       },
       "venue": {
-        "name": "Lincoln Financial Field",
-        "city": "Philadelphia, PA"
+        "name": "MetLife Stadium",
+        "city": "East Rutherford, NJ"
       }
     },
     {
       "id": 9030,
-      "date": "2026-06-25T17:00:00+00:00",
+      "date": "2026-06-25T20:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - E",
       "home": {
@@ -719,13 +719,13 @@
         "away": null
       },
       "venue": {
-        "name": "MetLife Stadium",
-        "city": "East Rutherford, NJ"
+        "name": "Lincoln Financial Field",
+        "city": "Philadelphia, PA"
       }
     },
     {
       "id": 9031,
-      "date": "2026-06-14T18:00:00+00:00",
+      "date": "2026-06-14T20:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - F",
       "home": {
@@ -749,7 +749,7 @@
     },
     {
       "id": 9032,
-      "date": "2026-06-14T22:00:00+00:00",
+      "date": "2026-06-15T02:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - F",
       "home": {
@@ -773,7 +773,7 @@
     },
     {
       "id": 9033,
-      "date": "2026-06-20T18:00:00+00:00",
+      "date": "2026-06-20T17:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - F",
       "home": {
@@ -797,7 +797,7 @@
     },
     {
       "id": 9034,
-      "date": "2026-06-20T22:00:00+00:00",
+      "date": "2026-06-21T04:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - F",
       "home": {
@@ -821,7 +821,7 @@
     },
     {
       "id": 9035,
-      "date": "2026-06-26T01:00:00+00:00",
+      "date": "2026-06-25T23:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - F",
       "home": {
@@ -839,13 +839,13 @@
         "away": null
       },
       "venue": {
-        "name": "AT&T Stadium",
-        "city": "Arlington, TX"
+        "name": "Arrowhead Stadium",
+        "city": "Kansas City, MO"
       }
     },
     {
       "id": 9036,
-      "date": "2026-06-26T01:00:00+00:00",
+      "date": "2026-06-25T23:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - F",
       "home": {
@@ -863,13 +863,13 @@
         "away": null
       },
       "venue": {
-        "name": "Arrowhead Stadium",
-        "city": "Kansas City, MO"
+        "name": "AT&T Stadium",
+        "city": "Arlington, TX"
       }
     },
     {
       "id": 9037,
-      "date": "2026-06-15T18:00:00+00:00",
+      "date": "2026-06-15T19:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - G",
       "home": {
@@ -887,13 +887,13 @@
         "away": null
       },
       "venue": {
-        "name": "SoFi Stadium",
-        "city": "Los Angeles, CA"
+        "name": "Lumen Field",
+        "city": "Seattle, WA"
       }
     },
     {
       "id": 9038,
-      "date": "2026-06-15T22:00:00+00:00",
+      "date": "2026-06-16T01:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - G",
       "home": {
@@ -911,13 +911,13 @@
         "away": null
       },
       "venue": {
-        "name": "Lumen Field",
-        "city": "Seattle, WA"
+        "name": "SoFi Stadium",
+        "city": "Los Angeles, CA"
       }
     },
     {
       "id": 9039,
-      "date": "2026-06-21T18:00:00+00:00",
+      "date": "2026-06-21T19:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - G",
       "home": {
@@ -941,7 +941,7 @@
     },
     {
       "id": 9040,
-      "date": "2026-06-21T22:00:00+00:00",
+      "date": "2026-06-22T01:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - G",
       "home": {
@@ -965,7 +965,7 @@
     },
     {
       "id": 9041,
-      "date": "2026-06-26T21:00:00+00:00",
+      "date": "2026-06-27T03:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - G",
       "home": {
@@ -983,13 +983,13 @@
         "away": null
       },
       "venue": {
-        "name": "Lumen Field",
-        "city": "Seattle, WA"
+        "name": "BC Place",
+        "city": "Vancouver"
       }
     },
     {
       "id": 9042,
-      "date": "2026-06-26T21:00:00+00:00",
+      "date": "2026-06-27T03:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - G",
       "home": {
@@ -1007,13 +1007,13 @@
         "away": null
       },
       "venue": {
-        "name": "BC Place",
-        "city": "Vancouver"
+        "name": "Lumen Field",
+        "city": "Seattle, WA"
       }
     },
     {
       "id": 9043,
-      "date": "2026-06-15T18:00:00+00:00",
+      "date": "2026-06-15T16:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - H",
       "home": {
@@ -1031,8 +1031,8 @@
         "away": null
       },
       "venue": {
-        "name": "Hard Rock Stadium",
-        "city": "Miami Gardens, FL"
+        "name": "Mercedes-Benz Stadium",
+        "city": "Atlanta, GA"
       }
     },
     {
@@ -1055,13 +1055,13 @@
         "away": null
       },
       "venue": {
-        "name": "Mercedes-Benz Stadium",
-        "city": "Atlanta, GA"
+        "name": "Hard Rock Stadium",
+        "city": "Miami Gardens, FL"
       }
     },
     {
       "id": 9045,
-      "date": "2026-06-21T18:00:00+00:00",
+      "date": "2026-06-21T16:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - H",
       "home": {
@@ -1079,8 +1079,8 @@
         "away": null
       },
       "venue": {
-        "name": "Hard Rock Stadium",
-        "city": "Miami Gardens, FL"
+        "name": "Mercedes-Benz Stadium",
+        "city": "Atlanta, GA"
       }
     },
     {
@@ -1103,13 +1103,13 @@
         "away": null
       },
       "venue": {
-        "name": "Mercedes-Benz Stadium",
-        "city": "Atlanta, GA"
+        "name": "Hard Rock Stadium",
+        "city": "Miami Gardens, FL"
       }
     },
     {
       "id": 9047,
-      "date": "2026-06-26T17:00:00+00:00",
+      "date": "2026-06-27T00:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - H",
       "home": {
@@ -1127,13 +1127,13 @@
         "away": null
       },
       "venue": {
-        "name": "NRG Stadium",
-        "city": "Houston, TX"
+        "name": "Estadio Akron",
+        "city": "Guadalajara"
       }
     },
     {
       "id": 9048,
-      "date": "2026-06-26T17:00:00+00:00",
+      "date": "2026-06-27T00:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - H",
       "home": {
@@ -1151,13 +1151,13 @@
         "away": null
       },
       "venue": {
-        "name": "Estadio Akron",
-        "city": "Guadalajara"
+        "name": "NRG Stadium",
+        "city": "Houston, TX"
       }
     },
     {
       "id": 9049,
-      "date": "2026-06-16T18:00:00+00:00",
+      "date": "2026-06-16T19:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - I",
       "home": {
@@ -1205,7 +1205,7 @@
     },
     {
       "id": 9051,
-      "date": "2026-06-22T18:00:00+00:00",
+      "date": "2026-06-22T21:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - I",
       "home": {
@@ -1223,13 +1223,13 @@
         "away": null
       },
       "venue": {
-        "name": "MetLife Stadium",
-        "city": "East Rutherford, NJ"
+        "name": "Lincoln Financial Field",
+        "city": "Philadelphia, PA"
       }
     },
     {
       "id": 9052,
-      "date": "2026-06-22T22:00:00+00:00",
+      "date": "2026-06-23T00:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - I",
       "home": {
@@ -1247,13 +1247,13 @@
         "away": null
       },
       "venue": {
-        "name": "Lincoln Financial Field",
-        "city": "Philadelphia, PA"
+        "name": "MetLife Stadium",
+        "city": "East Rutherford, NJ"
       }
     },
     {
       "id": 9053,
-      "date": "2026-06-27T01:00:00+00:00",
+      "date": "2026-06-26T19:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - I",
       "home": {
@@ -1277,7 +1277,7 @@
     },
     {
       "id": 9054,
-      "date": "2026-06-27T01:00:00+00:00",
+      "date": "2026-06-26T19:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - I",
       "home": {
@@ -1301,7 +1301,7 @@
     },
     {
       "id": 9055,
-      "date": "2026-06-16T18:00:00+00:00",
+      "date": "2026-06-17T01:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - J",
       "home": {
@@ -1325,7 +1325,7 @@
     },
     {
       "id": 9056,
-      "date": "2026-06-16T22:00:00+00:00",
+      "date": "2026-06-17T04:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - J",
       "home": {
@@ -1349,7 +1349,7 @@
     },
     {
       "id": 9057,
-      "date": "2026-06-22T18:00:00+00:00",
+      "date": "2026-06-22T17:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - J",
       "home": {
@@ -1373,7 +1373,7 @@
     },
     {
       "id": 9058,
-      "date": "2026-06-22T22:00:00+00:00",
+      "date": "2026-06-23T03:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - J",
       "home": {
@@ -1397,7 +1397,7 @@
     },
     {
       "id": 9059,
-      "date": "2026-06-27T21:00:00+00:00",
+      "date": "2026-06-28T02:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - J",
       "home": {
@@ -1415,13 +1415,13 @@
         "away": null
       },
       "venue": {
-        "name": "Arrowhead Stadium",
-        "city": "Kansas City, MO"
+        "name": "AT&T Stadium",
+        "city": "Arlington, TX"
       }
     },
     {
       "id": 9060,
-      "date": "2026-06-27T21:00:00+00:00",
+      "date": "2026-06-28T02:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - J",
       "home": {
@@ -1439,13 +1439,13 @@
         "away": null
       },
       "venue": {
-        "name": "AT&T Stadium",
-        "city": "Arlington, TX"
+        "name": "Arrowhead Stadium",
+        "city": "Kansas City, MO"
       }
     },
     {
       "id": 9061,
-      "date": "2026-06-17T18:00:00+00:00",
+      "date": "2026-06-17T17:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - K",
       "home": {
@@ -1469,7 +1469,7 @@
     },
     {
       "id": 9062,
-      "date": "2026-06-17T22:00:00+00:00",
+      "date": "2026-06-18T02:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - K",
       "home": {
@@ -1493,7 +1493,7 @@
     },
     {
       "id": 9063,
-      "date": "2026-06-23T18:00:00+00:00",
+      "date": "2026-06-23T17:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - K",
       "home": {
@@ -1517,7 +1517,7 @@
     },
     {
       "id": 9064,
-      "date": "2026-06-23T22:00:00+00:00",
+      "date": "2026-06-24T02:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - K",
       "home": {
@@ -1541,7 +1541,7 @@
     },
     {
       "id": 9065,
-      "date": "2026-06-27T17:00:00+00:00",
+      "date": "2026-06-27T23:30:00+00:00",
       "status": "NS",
       "round": "Group Stage - K",
       "home": {
@@ -1565,7 +1565,7 @@
     },
     {
       "id": 9066,
-      "date": "2026-06-27T17:00:00+00:00",
+      "date": "2026-06-27T23:30:00+00:00",
       "status": "NS",
       "round": "Group Stage - K",
       "home": {
@@ -1589,7 +1589,7 @@
     },
     {
       "id": 9067,
-      "date": "2026-06-17T18:00:00+00:00",
+      "date": "2026-06-17T20:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - L",
       "home": {
@@ -1607,13 +1607,13 @@
         "away": null
       },
       "venue": {
-        "name": "BMO Field",
-        "city": "Toronto"
+        "name": "AT&T Stadium",
+        "city": "Arlington, TX"
       }
     },
     {
       "id": 9068,
-      "date": "2026-06-17T22:00:00+00:00",
+      "date": "2026-06-17T23:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - L",
       "home": {
@@ -1631,13 +1631,13 @@
         "away": null
       },
       "venue": {
-        "name": "AT&T Stadium",
-        "city": "Arlington, TX"
+        "name": "BMO Field",
+        "city": "Toronto"
       }
     },
     {
       "id": 9069,
-      "date": "2026-06-23T18:00:00+00:00",
+      "date": "2026-06-23T20:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - L",
       "home": {
@@ -1661,7 +1661,7 @@
     },
     {
       "id": 9070,
-      "date": "2026-06-23T22:00:00+00:00",
+      "date": "2026-06-23T23:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - L",
       "home": {
@@ -1685,7 +1685,7 @@
     },
     {
       "id": 9071,
-      "date": "2026-06-28T01:00:00+00:00",
+      "date": "2026-06-27T21:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - L",
       "home": {
@@ -1709,7 +1709,7 @@
     },
     {
       "id": 9072,
-      "date": "2026-06-28T01:00:00+00:00",
+      "date": "2026-06-27T21:00:00+00:00",
       "status": "NS",
       "round": "Group Stage - L",
       "home": {
@@ -1733,7 +1733,7 @@
     },
     {
       "id": 9073,
-      "date": "2026-06-28T21:00:00+00:00",
+      "date": "2026-06-28T19:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "match_num": 73,
@@ -1758,7 +1758,7 @@
     },
     {
       "id": 9074,
-      "date": "2026-06-29T18:00:00+00:00",
+      "date": "2026-06-29T20:30:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "match_num": 74,
@@ -1783,7 +1783,7 @@
     },
     {
       "id": 9075,
-      "date": "2026-06-29T22:00:00+00:00",
+      "date": "2026-06-30T01:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "match_num": 75,
@@ -1802,13 +1802,13 @@
         "away": null
       },
       "venue": {
-        "name": "Estadio Akron",
-        "city": "Guadalajara"
+        "name": "Estadio BBVA",
+        "city": "Monterrey"
       }
     },
     {
       "id": 9076,
-      "date": "2026-06-29T02:00:00+00:00",
+      "date": "2026-06-29T17:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "match_num": 76,
@@ -1833,7 +1833,7 @@
     },
     {
       "id": 9077,
-      "date": "2026-06-30T18:00:00+00:00",
+      "date": "2026-06-30T21:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "match_num": 77,
@@ -1858,7 +1858,7 @@
     },
     {
       "id": 9078,
-      "date": "2026-06-30T22:00:00+00:00",
+      "date": "2026-06-30T17:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "match_num": 78,
@@ -1883,7 +1883,7 @@
     },
     {
       "id": 9079,
-      "date": "2026-06-30T02:00:00+00:00",
+      "date": "2026-07-01T01:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "match_num": 79,
@@ -1908,7 +1908,7 @@
     },
     {
       "id": 9080,
-      "date": "2026-07-01T18:00:00+00:00",
+      "date": "2026-07-01T16:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "match_num": 80,
@@ -1933,7 +1933,7 @@
     },
     {
       "id": 9081,
-      "date": "2026-07-01T22:00:00+00:00",
+      "date": "2026-07-02T00:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "match_num": 81,
@@ -1958,7 +1958,7 @@
     },
     {
       "id": 9082,
-      "date": "2026-07-01T02:00:00+00:00",
+      "date": "2026-07-01T20:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "match_num": 82,
@@ -1983,7 +1983,7 @@
     },
     {
       "id": 9083,
-      "date": "2026-07-02T18:00:00+00:00",
+      "date": "2026-07-02T23:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "match_num": 83,
@@ -2008,7 +2008,7 @@
     },
     {
       "id": 9084,
-      "date": "2026-07-02T22:00:00+00:00",
+      "date": "2026-07-02T19:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "match_num": 84,
@@ -2033,7 +2033,7 @@
     },
     {
       "id": 9085,
-      "date": "2026-07-02T02:00:00+00:00",
+      "date": "2026-07-03T03:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "match_num": 85,
@@ -2058,7 +2058,7 @@
     },
     {
       "id": 9086,
-      "date": "2026-07-03T18:00:00+00:00",
+      "date": "2026-07-03T22:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "match_num": 86,
@@ -2083,7 +2083,7 @@
     },
     {
       "id": 9087,
-      "date": "2026-07-03T22:00:00+00:00",
+      "date": "2026-07-04T01:30:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "match_num": 87,
@@ -2108,7 +2108,7 @@
     },
     {
       "id": 9088,
-      "date": "2026-07-03T02:00:00+00:00",
+      "date": "2026-07-03T18:00:00+00:00",
       "status": "NS",
       "round": "Round of 32",
       "match_num": 88,
@@ -2133,7 +2133,7 @@
     },
     {
       "id": 9089,
-      "date": "2026-07-04T18:00:00+00:00",
+      "date": "2026-07-04T21:00:00+00:00",
       "status": "NS",
       "round": "Round of 16",
       "match_num": 89,
@@ -2152,13 +2152,13 @@
         "away": null
       },
       "venue": {
-        "name": "Estadio Azteca",
-        "city": "Mexico City"
+        "name": "Lincoln Financial Field",
+        "city": "Philadelphia, PA"
       }
     },
     {
       "id": 9090,
-      "date": "2026-07-04T22:00:00+00:00",
+      "date": "2026-07-04T17:00:00+00:00",
       "status": "NS",
       "round": "Round of 16",
       "match_num": 90,
@@ -2177,13 +2177,13 @@
         "away": null
       },
       "venue": {
-        "name": "MetLife Stadium",
-        "city": "East Rutherford, NJ"
+        "name": "NRG Stadium",
+        "city": "Houston, TX"
       }
     },
     {
       "id": 9091,
-      "date": "2026-07-05T18:00:00+00:00",
+      "date": "2026-07-05T20:00:00+00:00",
       "status": "NS",
       "round": "Round of 16",
       "match_num": 91,
@@ -2202,13 +2202,13 @@
         "away": null
       },
       "venue": {
-        "name": "NRG Stadium",
-        "city": "Houston, TX"
+        "name": "MetLife Stadium",
+        "city": "East Rutherford, NJ"
       }
     },
     {
       "id": 9092,
-      "date": "2026-07-05T22:00:00+00:00",
+      "date": "2026-07-06T00:00:00+00:00",
       "status": "NS",
       "round": "Round of 16",
       "match_num": 92,
@@ -2233,7 +2233,7 @@
     },
     {
       "id": 9093,
-      "date": "2026-07-06T18:00:00+00:00",
+      "date": "2026-07-06T19:00:00+00:00",
       "status": "NS",
       "round": "Round of 16",
       "match_num": 93,
@@ -2258,7 +2258,7 @@
     },
     {
       "id": 9094,
-      "date": "2026-07-06T22:00:00+00:00",
+      "date": "2026-07-07T00:00:00+00:00",
       "status": "NS",
       "round": "Round of 16",
       "match_num": 94,
@@ -2283,7 +2283,7 @@
     },
     {
       "id": 9095,
-      "date": "2026-07-07T18:00:00+00:00",
+      "date": "2026-07-07T16:00:00+00:00",
       "status": "NS",
       "round": "Round of 16",
       "match_num": 95,
@@ -2302,13 +2302,13 @@
         "away": null
       },
       "venue": {
-        "name": "Lincoln Financial Field",
-        "city": "Philadelphia, PA"
+        "name": "Mercedes-Benz Stadium",
+        "city": "Atlanta, GA"
       }
     },
     {
       "id": 9096,
-      "date": "2026-07-07T22:00:00+00:00",
+      "date": "2026-07-07T20:00:00+00:00",
       "status": "NS",
       "round": "Round of 16",
       "match_num": 96,
@@ -2327,13 +2327,13 @@
         "away": null
       },
       "venue": {
-        "name": "Mercedes-Benz Stadium",
-        "city": "Atlanta, GA"
+        "name": "BC Place",
+        "city": "Vancouver"
       }
     },
     {
       "id": 9097,
-      "date": "2026-07-09T21:00:00+00:00",
+      "date": "2026-07-09T20:00:00+00:00",
       "status": "NS",
       "round": "Quarter-finals",
       "match_num": 97,
@@ -2358,7 +2358,7 @@
     },
     {
       "id": 9098,
-      "date": "2026-07-10T21:00:00+00:00",
+      "date": "2026-07-10T19:00:00+00:00",
       "status": "NS",
       "round": "Quarter-finals",
       "match_num": 98,
@@ -2383,7 +2383,7 @@
     },
     {
       "id": 9099,
-      "date": "2026-07-11T18:00:00+00:00",
+      "date": "2026-07-11T21:00:00+00:00",
       "status": "NS",
       "round": "Quarter-finals",
       "match_num": 99,
@@ -2408,7 +2408,7 @@
     },
     {
       "id": 9100,
-      "date": "2026-07-11T22:00:00+00:00",
+      "date": "2026-07-12T01:00:00+00:00",
       "status": "NS",
       "round": "Quarter-finals",
       "match_num": 100,
@@ -2433,7 +2433,7 @@
     },
     {
       "id": 9101,
-      "date": "2026-07-14T22:00:00+00:00",
+      "date": "2026-07-14T19:00:00+00:00",
       "status": "NS",
       "round": "Semi-finals",
       "match_num": 101,
@@ -2458,7 +2458,7 @@
     },
     {
       "id": 9102,
-      "date": "2026-07-15T22:00:00+00:00",
+      "date": "2026-07-15T19:00:00+00:00",
       "status": "NS",
       "round": "Semi-finals",
       "match_num": 102,
@@ -2483,7 +2483,7 @@
     },
     {
       "id": 9103,
-      "date": "2026-07-18T19:00:00+00:00",
+      "date": "2026-07-18T21:00:00+00:00",
       "status": "NS",
       "round": "3rd Place Final",
       "match_num": 103,
