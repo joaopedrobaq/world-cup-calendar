@@ -1,6 +1,355 @@
 {
-  "_instrucoes": "Mapeie fixture_id (string) para lista de canais. Remova esta chave antes de usar.",
-  "_exemplo": {
-    "fixture_id_aqui": ["TV Globo", "SporTV", "CazéTV"]
-  }
+  "9001": [
+    "CazéTV",
+    "Globo/SporTV",
+    "SBT"
+  ],
+  "9002": [
+    "CazéTV"
+  ],
+  "9003": [
+    "CazéTV"
+  ],
+  "9004": [
+    "CazéTV",
+    "Globo/SporTV"
+  ],
+  "9005": [
+    "CazéTV"
+  ],
+  "9006": [
+    "CazéTV"
+  ],
+  "9007": [
+    "CazéTV"
+  ],
+  "9008": [
+    "CazéTV"
+  ],
+  "9009": [
+    "CazéTV",
+    "Globo/SporTV",
+    "SBT"
+  ],
+  "9010": [
+    "CazéTV"
+  ],
+  "9011": [
+    "CazéTV"
+  ],
+  "9012": [
+    "CazéTV"
+  ],
+  "9013": [
+    "CazéTV",
+    "Globo/SporTV",
+    "SBT"
+  ],
+  "9014": [
+    "CazéTV"
+  ],
+  "9015": [
+    "CazéTV",
+    "Globo/SporTV",
+    "SBT"
+  ],
+  "9016": [
+    "CazéTV"
+  ],
+  "9017": [
+    "CazéTV",
+    "Globo/SporTV",
+    "SBT"
+  ],
+  "9018": [
+    "CazéTV"
+  ],
+  "9019": [
+    "CazéTV",
+    "Globo/SporTV",
+    "SBT"
+  ],
+  "9020": [
+    "CazéTV",
+    "Globo/SporTV"
+  ],
+  "9021": [
+    "CazéTV",
+    "Globo/SporTV"
+  ],
+  "9022": [
+    "CazéTV"
+  ],
+  "9023": [
+    "CazéTV"
+  ],
+  "9024": [
+    "CazéTV"
+  ],
+  "9025": [
+    "CazéTV"
+  ],
+  "9026": [
+    "CazéTV",
+    "Globo/SporTV"
+  ],
+  "9027": [
+    "CazéTV",
+    "Globo/SporTV",
+    "SBT"
+  ],
+  "9028": [
+    "CazéTV"
+  ],
+  "9029": [
+    "CazéTV"
+  ],
+  "9030": [
+    "CazéTV"
+  ],
+  "9031": [
+    "CazéTV",
+    "Globo/SporTV",
+    "SBT"
+  ],
+  "9032": [
+    "CazéTV",
+    "Globo/SporTV"
+  ],
+  "9033": [
+    "CazéTV"
+  ],
+  "9034": [
+    "CazéTV",
+    "Globo/SporTV"
+  ],
+  "9035": [
+    "CazéTV"
+  ],
+  "9036": [
+    "CazéTV"
+  ],
+  "9037": [
+    "CazéTV",
+    "Globo/SporTV"
+  ],
+  "9038": [
+    "CazéTV"
+  ],
+  "9039": [
+    "CazéTV"
+  ],
+  "9040": [
+    "CazéTV",
+    "Globo/SporTV"
+  ],
+  "9041": [
+    "CazéTV"
+  ],
+  "9042": [
+    "CazéTV"
+  ],
+  "9043": [
+    "CazéTV"
+  ],
+  "9044": [
+    "CazéTV",
+    "Globo/SporTV",
+    "SBT"
+  ],
+  "9045": [
+    "CazéTV"
+  ],
+  "9046": [
+    "CazéTV",
+    "Globo/SporTV",
+    "SBT"
+  ],
+  "9047": [
+    "CazéTV"
+  ],
+  "9048": [
+    "CazéTV"
+  ],
+  "9049": [
+    "CazéTV",
+    "Globo/SporTV",
+    "SBT"
+  ],
+  "9050": [
+    "CazéTV"
+  ],
+  "9051": [
+    "CazéTV"
+  ],
+  "9052": [
+    "CazéTV",
+    "Globo/SporTV"
+  ],
+  "9053": [
+    "CazéTV"
+  ],
+  "9054": [
+    "CazéTV"
+  ],
+  "9055": [
+    "CazéTV"
+  ],
+  "9056": [
+    "CazéTV",
+    "Globo/SporTV"
+  ],
+  "9057": [
+    "CazéTV",
+    "Globo/SporTV",
+    "SBT"
+  ],
+  "9058": [
+    "CazéTV",
+    "Globo/SporTV"
+  ],
+  "9059": [
+    "CazéTV"
+  ],
+  "9060": [
+    "CazéTV"
+  ],
+  "9061": [
+    "CazéTV"
+  ],
+  "9062": [
+    "CazéTV",
+    "Globo/SporTV"
+  ],
+  "9063": [
+    "CazéTV"
+  ],
+  "9064": [
+    "CazéTV",
+    "Globo/SporTV"
+  ],
+  "9065": [
+    "CazéTV"
+  ],
+  "9066": [
+    "CazéTV"
+  ],
+  "9067": [
+    "CazéTV",
+    "Globo/SporTV",
+    "SBT"
+  ],
+  "9068": [
+    "CazéTV"
+  ],
+  "9069": [
+    "CazéTV",
+    "Globo/SporTV",
+    "SBT"
+  ],
+  "9070": [
+    "CazéTV"
+  ],
+  "9071": [
+    "CazéTV"
+  ],
+  "9072": [
+    "CazéTV"
+  ],
+  "9073": [
+    "CazéTV"
+  ],
+  "9074": [
+    "CazéTV"
+  ],
+  "9075": [
+    "CazéTV"
+  ],
+  "9076": [
+    "CazéTV"
+  ],
+  "9077": [
+    "CazéTV"
+  ],
+  "9078": [
+    "CazéTV"
+  ],
+  "9079": [
+    "CazéTV"
+  ],
+  "9080": [
+    "CazéTV"
+  ],
+  "9081": [
+    "CazéTV"
+  ],
+  "9082": [
+    "CazéTV"
+  ],
+  "9083": [
+    "CazéTV"
+  ],
+  "9084": [
+    "CazéTV"
+  ],
+  "9085": [
+    "CazéTV"
+  ],
+  "9086": [
+    "CazéTV"
+  ],
+  "9087": [
+    "CazéTV"
+  ],
+  "9088": [
+    "CazéTV"
+  ],
+  "9089": [
+    "CazéTV"
+  ],
+  "9090": [
+    "CazéTV"
+  ],
+  "9091": [
+    "CazéTV"
+  ],
+  "9092": [
+    "CazéTV"
+  ],
+  "9093": [
+    "CazéTV"
+  ],
+  "9094": [
+    "CazéTV"
+  ],
+  "9095": [
+    "CazéTV"
+  ],
+  "9096": [
+    "CazéTV"
+  ],
+  "9097": [
+    "CazéTV"
+  ],
+  "9098": [
+    "CazéTV"
+  ],
+  "9099": [
+    "CazéTV"
+  ],
+  "9100": [
+    "CazéTV"
+  ],
+  "9101": [
+    "CazéTV"
+  ],
+  "9102": [
+    "CazéTV"
+  ],
+  "9103": [
+    "CazéTV"
+  ],
+  "9104": [
+    "CazéTV"
+  ]
 }

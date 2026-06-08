@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//joaopedrobaq//🏆 Copa do Mundo 2026//EN
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Vancouver\nEstádio: BC Place\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Vancouver\nEstádio: BC Place\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:BC Place
 DTSTART:20260624T190000Z
@@ -10,7 +10,7 @@ SUMMARY:Suíça 🇨🇭 x 🇨🇦 Canadá
 UID:fixture-9011@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Atlanta\, GA\nEstádio: Mercedes-Benz Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Atlanta\, GA\nEstádio: Mercedes-Benz Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Mercedes-Benz Stadium
 DTSTART:20260627T233000Z
@@ -18,7 +18,7 @@ SUMMARY:Congo DR 🇨🇩 x 🇺🇿 Uzbequistão
 UID:fixture-9066@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Atlanta\, GA\nEstádio: Mercedes-Benz Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Atlanta\, GA\nEstádio: Mercedes-Benz Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Mercedes-Benz Stadium
 DTSTART:20260618T160000Z
@@ -26,7 +26,7 @@ SUMMARY:República Tcheca 🇨🇿 x 🇿🇦 África do Sul
 UID:fixture-9003@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Santa Clara\, CA\nEstádio: Levi's Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Santa Clara\, CA\nEstádio: Levi's Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV
 DURATION:PT1H50M
 LOCATION:Levi's Stadium
 DTSTART:20260623T030000Z
@@ -34,7 +34,7 @@ SUMMARY:Jordânia 🇯🇴 x 🇩🇿 Argélia
 UID:fixture-9058@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Mexico City\nEstádio: Estadio Azteca\nFase: Oitavas de final\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Mexico City\nEstádio: Estadio Azteca\nFase: Oitavas de final\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Estadio Azteca
 DTSTART:20260706T000000Z
@@ -42,7 +42,7 @@ SUMMARY:Ven. J79 x Ven. J80
 UID:fixture-9092@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Los Angeles\, CA\nEstádio: SoFi Stadium\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Los Angeles\, CA\nEstádio: SoFi Stadium\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:SoFi Stadium
 DTSTART:20260702T190000Z
@@ -50,7 +50,7 @@ SUMMARY:1º H x 2º J
 UID:fixture-9084@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Santa Clara\, CA\nEstádio: Levi's Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Santa Clara\, CA\nEstádio: Levi's Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV
 DURATION:PT1H50M
 LOCATION:Levi's Stadium
 DTSTART:20260620T030000Z
@@ -58,7 +58,7 @@ SUMMARY:Turquia 🇹🇷 x 🇵🇾 Paraguai
 UID:fixture-9021@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Houston\, TX\nEstádio: NRG Stadium\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Houston\, TX\nEstádio: NRG Stadium\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:NRG Stadium
 DTSTART:20260629T170000Z
@@ -66,7 +66,7 @@ SUMMARY:1º C x 2º F
 UID:fixture-9076@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: East Rutherford\, NJ\nEstádio: MetLife Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: East Rutherford\, NJ\nEstádio: MetLife Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV\n• SBT
 DURATION:PT1H50M
 LOCATION:MetLife Stadium
 DTSTART:20260613T220000Z
@@ -74,7 +74,7 @@ SUMMARY:Brasil 🇧🇷 x 🇲🇦 Marrocos
 UID:fixture-9013@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Toronto\nEstádio: BMO Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Toronto\nEstádio: BMO Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:BMO Field
 DTSTART:20260617T230000Z
@@ -82,7 +82,7 @@ SUMMARY:Gana 🇬🇭 x 🇵🇦 Panamá
 UID:fixture-9068@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Mexico City\nEstádio: Estadio Azteca\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Mexico City\nEstádio: Estadio Azteca\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Estadio Azteca
 DTSTART:20260625T010000Z
@@ -90,7 +90,7 @@ SUMMARY:República Tcheca 🇨🇿 x 🇲🇽 México
 UID:fixture-9005@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Kansas City\, MO\nEstádio: Arrowhead Stadium\nFase: Quartas de final\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Kansas City\, MO\nEstádio: Arrowhead Stadium\nFase: Quartas de final\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Arrowhead Stadium
 DTSTART:20260712T010000Z
@@ -98,7 +98,7 @@ SUMMARY:Ven. J95 x Ven. J96
 UID:fixture-9100@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Seattle\, WA\nEstádio: Lumen Field\nFase: Oitavas de final\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Seattle\, WA\nEstádio: Lumen Field\nFase: Oitavas de final\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Lumen Field
 DTSTART:20260707T000000Z
@@ -106,7 +106,7 @@ SUMMARY:Ven. J81 x Ven. J82
 UID:fixture-9094@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Arlington\, TX\nEstádio: AT&T Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Arlington\, TX\nEstádio: AT&T Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV\n• SBT
 DURATION:PT1H50M
 LOCATION:AT&T Stadium
 DTSTART:20260614T200000Z
@@ -114,7 +114,7 @@ SUMMARY:Países Baixos 🇳🇱 x 🇯🇵 Japão
 UID:fixture-9031@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Miami Gardens\, FL\nEstádio: Hard Rock Stadium\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Miami Gardens\, FL\nEstádio: Hard Rock Stadium\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Hard Rock Stadium
 DTSTART:20260703T220000Z
@@ -122,7 +122,7 @@ SUMMARY:1º J x 2º H
 UID:fixture-9086@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Los Angeles\, CA\nEstádio: SoFi Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Los Angeles\, CA\nEstádio: SoFi Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:SoFi Stadium
 DTSTART:20260626T020000Z
@@ -130,7 +130,7 @@ SUMMARY:Turquia 🇹🇷 x 🇺🇸 EUA
 UID:fixture-9023@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Arlington\, TX\nEstádio: AT&T Stadium\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Arlington\, TX\nEstádio: AT&T Stadium\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:AT&T Stadium
 DTSTART:20260630T170000Z
@@ -138,7 +138,7 @@ SUMMARY:2º E x 2º I
 UID:fixture-9078@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Philadelphia\, PA\nEstádio: Lincoln Financial Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Philadelphia\, PA\nEstádio: Lincoln Financial Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV\n• SBT
 DURATION:PT1H50M
 LOCATION:Lincoln Financial Field
 DTSTART:20260620T003000Z
@@ -146,7 +146,7 @@ SUMMARY:Brasil 🇧🇷 x 🇭🇹 Haiti
 UID:fixture-9015@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Toronto\nEstádio: BMO Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Toronto\nEstádio: BMO Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:BMO Field
 DTSTART:20260612T190000Z
@@ -154,7 +154,7 @@ SUMMARY:Canadá 🇨🇦 x 🇧🇦 Bósnia e Herzegovina
 UID:fixture-9007@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Atlanta\, GA\nEstádio: Mercedes-Benz Stadium\nFase: Semifinais\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Atlanta\, GA\nEstádio: Mercedes-Benz Stadium\nFase: Semifinais\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Mercedes-Benz Stadium
 DTSTART:20260715T190000Z
@@ -162,7 +162,7 @@ SUMMARY:Ven. J99 x Ven. J100
 UID:fixture-9102@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Vancouver\nEstádio: BC Place\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Vancouver\nEstádio: BC Place\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:BC Place
 DTSTART:20260627T030000Z
@@ -170,7 +170,7 @@ SUMMARY:Nova Zelândia 🇳🇿 x 🇧🇪 Bélgica
 UID:fixture-9041@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Vancouver\nEstádio: BC Place\nFase: Oitavas de final\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Vancouver\nEstádio: BC Place\nFase: Oitavas de final\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:BC Place
 DTSTART:20260707T200000Z
@@ -178,7 +178,7 @@ SUMMARY:Ven. J85 x Ven. J87
 UID:fixture-9096@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Houston\, TX\nEstádio: NRG Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Houston\, TX\nEstádio: NRG Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:NRG Stadium
 DTSTART:20260620T170000Z
@@ -186,7 +186,7 @@ SUMMARY:Países Baixos 🇳🇱 x 🇸🇪 Suécia
 UID:fixture-9033@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Arlington\, TX\nEstádio: AT&T Stadium\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Arlington\, TX\nEstádio: AT&T Stadium\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:AT&T Stadium
 DTSTART:20260703T180000Z
@@ -194,7 +194,7 @@ SUMMARY:2º D x 2º G
 UID:fixture-9088@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Houston\, TX\nEstádio: NRG Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Houston\, TX\nEstádio: NRG Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:NRG Stadium
 DTSTART:20260614T170000Z
@@ -202,7 +202,7 @@ SUMMARY:Alemanha 🇩🇪 x 🇨🇼 Curaçao
 UID:fixture-9025@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Miami Gardens\, FL\nEstádio: Hard Rock Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Miami Gardens\, FL\nEstádio: Hard Rock Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV\n• SBT
 DURATION:PT1H50M
 LOCATION:Hard Rock Stadium
 DTSTART:20260624T220000Z
@@ -210,7 +210,7 @@ SUMMARY:Escócia 🏴󠁧󠁢󠁳󠁣󠁴󠁿 x 🇧🇷 Brasil
 UID:fixture-9017@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Los Angeles\, CA\nEstádio: SoFi Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Los Angeles\, CA\nEstádio: SoFi Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV\n• SBT
 DURATION:PT1H50M
 LOCATION:SoFi Stadium
 DTSTART:20260618T190000Z
@@ -218,7 +218,7 @@ SUMMARY:Suíça 🇨🇭 x 🇧🇦 Bósnia e Herzegovina
 UID:fixture-9009@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Philadelphia\, PA\nEstádio: Lincoln Financial Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Philadelphia\, PA\nEstádio: Lincoln Financial Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Lincoln Financial Field
 DTSTART:20260622T210000Z
@@ -226,7 +226,7 @@ SUMMARY:França 🇫🇷 x 🇮🇶 Iraque
 UID:fixture-9051@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: East Rutherford\, NJ\nEstádio: MetLife Stadium\nFase: Final\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: East Rutherford\, NJ\nEstádio: MetLife Stadium\nFase: Final\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:MetLife Stadium
 DTSTART:20260719T190000Z
@@ -234,7 +234,7 @@ SUMMARY:Ven. J101 x Ven. J102
 UID:fixture-9104@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Atlanta\, GA\nEstádio: Mercedes-Benz Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Atlanta\, GA\nEstádio: Mercedes-Benz Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Mercedes-Benz Stadium
 DTSTART:20260615T160000Z
@@ -242,7 +242,7 @@ SUMMARY:Espanha 🇪🇸 x 🇨🇻 Cabo Verde
 UID:fixture-9043@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Los Angeles\, CA\nEstádio: SoFi Stadium\nFase: Quartas de final\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Los Angeles\, CA\nEstádio: SoFi Stadium\nFase: Quartas de final\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:SoFi Stadium
 DTSTART:20260710T190000Z
@@ -250,7 +250,7 @@ SUMMARY:Ven. J93 x Ven. J94
 UID:fixture-9098@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Kansas City\, MO\nEstádio: Arrowhead Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Kansas City\, MO\nEstádio: Arrowhead Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Arrowhead Stadium
 DTSTART:20260625T230000Z
@@ -258,7 +258,7 @@ SUMMARY:Tunísia 🇹🇳 x 🇳🇱 Países Baixos
 UID:fixture-9035@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Toronto\nEstádio: BMO Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Toronto\nEstádio: BMO Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV\n• SBT
 DURATION:PT1H50M
 LOCATION:BMO Field
 DTSTART:20260620T200000Z
@@ -266,7 +266,7 @@ SUMMARY:Alemanha 🇩🇪 x 🇨🇮 Costa do Marfim
 UID:fixture-9027@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Los Angeles\, CA\nEstádio: SoFi Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Los Angeles\, CA\nEstádio: SoFi Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV\n• SBT
 DURATION:PT1H50M
 LOCATION:SoFi Stadium
 DTSTART:20260613T010000Z
@@ -274,7 +274,7 @@ SUMMARY:EUA 🇺🇸 x 🇵🇾 Paraguai
 UID:fixture-9019@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Houston\, TX\nEstádio: NRG Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Houston\, TX\nEstádio: NRG Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:NRG Stadium
 DTSTART:20260617T170000Z
@@ -282,7 +282,7 @@ SUMMARY:Portugal 🇵🇹 x 🇨🇩 Congo DR
 UID:fixture-9061@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Foxborough\, MA\nEstádio: Gillette Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Foxborough\, MA\nEstádio: Gillette Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Gillette Stadium
 DTSTART:20260626T190000Z
@@ -290,7 +290,7 @@ SUMMARY:Noruega 🇳🇴 x 🇫🇷 França
 UID:fixture-9053@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Atlanta\, GA\nEstádio: Mercedes-Benz Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Atlanta\, GA\nEstádio: Mercedes-Benz Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Mercedes-Benz Stadium
 DTSTART:20260621T160000Z
@@ -298,7 +298,7 @@ SUMMARY:Espanha 🇪🇸 x 🇸🇦 Arábia Saudita
 UID:fixture-9045@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Seattle\, WA\nEstádio: Lumen Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Seattle\, WA\nEstádio: Lumen Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV
 DURATION:PT1H50M
 LOCATION:Lumen Field
 DTSTART:20260615T190000Z
@@ -306,7 +306,7 @@ SUMMARY:Bélgica 🇧🇪 x 🇪🇬 Egito
 UID:fixture-9037@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: East Rutherford\, NJ\nEstádio: MetLife Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: East Rutherford\, NJ\nEstádio: MetLife Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:MetLife Stadium
 DTSTART:20260625T200000Z
@@ -314,7 +314,7 @@ SUMMARY:Equador 🇪🇨 x 🇩🇪 Alemanha
 UID:fixture-9029@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: East Rutherford\, NJ\nEstádio: MetLife Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: East Rutherford\, NJ\nEstádio: MetLife Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:MetLife Stadium
 DTSTART:20260627T210000Z
@@ -322,7 +322,7 @@ SUMMARY:Panamá 🇵🇦 x 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 UID:fixture-9071@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Houston\, TX\nEstádio: NRG Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Houston\, TX\nEstádio: NRG Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:NRG Stadium
 DTSTART:20260623T170000Z
@@ -330,7 +330,7 @@ SUMMARY:Portugal 🇵🇹 x 🇺🇿 Uzbequistão
 UID:fixture-9063@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Kansas City\, MO\nEstádio: Arrowhead Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Kansas City\, MO\nEstádio: Arrowhead Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Arrowhead Stadium
 DTSTART:20260617T010000Z
@@ -338,7 +338,7 @@ SUMMARY:Argentina 🇦🇷 x 🇩🇿 Argélia
 UID:fixture-9055@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Guadalajara\nEstádio: Estadio Akron\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Guadalajara\nEstádio: Estadio Akron\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Estadio Akron
 DTSTART:20260627T000000Z
@@ -346,7 +346,7 @@ SUMMARY:Uruguai 🇺🇾 x 🇪🇸 Espanha
 UID:fixture-9047@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Los Angeles\, CA\nEstádio: SoFi Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Los Angeles\, CA\nEstádio: SoFi Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:SoFi Stadium
 DTSTART:20260621T190000Z
@@ -354,7 +354,7 @@ SUMMARY:Bélgica 🇧🇪 x 🇮🇷 Irã
 UID:fixture-9039@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Santa Clara\, CA\nEstádio: Levi's Stadium\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Santa Clara\, CA\nEstádio: Levi's Stadium\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Levi's Stadium
 DTSTART:20260702T000000Z
@@ -362,7 +362,7 @@ SUMMARY:1º D x 3º (B/E/F/I/J)
 UID:fixture-9081@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Los Angeles\, CA\nEstádio: SoFi Stadium\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Los Angeles\, CA\nEstádio: SoFi Stadium\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:SoFi Stadium
 DTSTART:20260628T190000Z
@@ -370,7 +370,7 @@ SUMMARY:2º A x 2º B
 UID:fixture-9073@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Vancouver\nEstádio: BC Place\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Vancouver\nEstádio: BC Place\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:BC Place
 DTSTART:20260618T220000Z
@@ -378,7 +378,7 @@ SUMMARY:Canadá 🇨🇦 x 🇶🇦 Qatar
 UID:fixture-9010@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Miami Gardens\, FL\nEstádio: Hard Rock Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Miami Gardens\, FL\nEstádio: Hard Rock Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Hard Rock Stadium
 DTSTART:20260627T233000Z
@@ -386,7 +386,7 @@ SUMMARY:Colômbia 🇨🇴 x 🇵🇹 Portugal
 UID:fixture-9065@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Guadalajara\nEstádio: Estadio Akron\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Guadalajara\nEstádio: Estadio Akron\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Estadio Akron
 DTSTART:20260612T020000Z
@@ -394,7 +394,7 @@ SUMMARY:Coreia do Sul 🇰🇷 x 🇨🇿 República Tcheca
 UID:fixture-9002@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Arlington\, TX\nEstádio: AT&T Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Arlington\, TX\nEstádio: AT&T Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV\n• SBT
 DURATION:PT1H50M
 LOCATION:AT&T Stadium
 DTSTART:20260622T170000Z
@@ -402,7 +402,7 @@ SUMMARY:Argentina 🇦🇷 x 🇦🇹 Áustria
 UID:fixture-9057@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: East Rutherford\, NJ\nEstádio: MetLife Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: East Rutherford\, NJ\nEstádio: MetLife Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV\n• SBT
 DURATION:PT1H50M
 LOCATION:MetLife Stadium
 DTSTART:20260616T190000Z
@@ -410,7 +410,7 @@ SUMMARY:França 🇫🇷 x 🇸🇳 Senegal
 UID:fixture-9049@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: East Rutherford\, NJ\nEstádio: MetLife Stadium\nFase: Oitavas de final\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: East Rutherford\, NJ\nEstádio: MetLife Stadium\nFase: Oitavas de final\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:MetLife Stadium
 DTSTART:20260705T200000Z
@@ -418,7 +418,7 @@ SUMMARY:Ven. J76 x Ven. J78
 UID:fixture-9091@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Toronto\nEstádio: BMO Field\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Toronto\nEstádio: BMO Field\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:BMO Field
 DTSTART:20260702T230000Z
@@ -426,7 +426,7 @@ SUMMARY:2º K x 2º L
 UID:fixture-9083@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Vancouver\nEstádio: BC Place\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Vancouver\nEstádio: BC Place\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV
 DURATION:PT1H50M
 LOCATION:BC Place
 DTSTART:20260614T040000Z
@@ -434,7 +434,7 @@ SUMMARY:Austrália 🇦🇺 x 🇹🇷 Turquia
 UID:fixture-9020@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Monterrey\nEstádio: Estadio BBVA\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Monterrey\nEstádio: Estadio BBVA\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Estadio BBVA
 DTSTART:20260630T010000Z
@@ -442,7 +442,7 @@ SUMMARY:1º F x 2º C
 UID:fixture-9075@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Seattle\, WA\nEstádio: Lumen Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Seattle\, WA\nEstádio: Lumen Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Lumen Field
 DTSTART:20260624T190000Z
@@ -450,7 +450,7 @@ SUMMARY:Bósnia e Herzegovina 🇧🇦 x 🇶🇦 Qatar
 UID:fixture-9012@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Arlington\, TX\nEstádio: AT&T Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Arlington\, TX\nEstádio: AT&T Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV\n• SBT
 DURATION:PT1H50M
 LOCATION:AT&T Stadium
 DTSTART:20260617T200000Z
@@ -458,7 +458,7 @@ SUMMARY:Inglaterra 🏴󠁧󠁢󠁥󠁮󠁧󠁿 x 🇭🇷 Croácia
 UID:fixture-9067@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Guadalajara\nEstádio: Estadio Akron\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Guadalajara\nEstádio: Estadio Akron\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV
 DURATION:PT1H50M
 LOCATION:Estadio Akron
 DTSTART:20260619T010000Z
@@ -466,7 +466,7 @@ SUMMARY:México 🇲🇽 x 🇰🇷 Coreia do Sul
 UID:fixture-9004@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Arlington\, TX\nEstádio: AT&T Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Arlington\, TX\nEstádio: AT&T Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:AT&T Stadium
 DTSTART:20260628T020000Z
@@ -474,7 +474,7 @@ SUMMARY:Jordânia 🇯🇴 x 🇦🇷 Argentina
 UID:fixture-9059@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Arlington\, TX\nEstádio: AT&T Stadium\nFase: Oitavas de final\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Arlington\, TX\nEstádio: AT&T Stadium\nFase: Oitavas de final\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:AT&T Stadium
 DTSTART:20260706T190000Z
@@ -482,7 +482,7 @@ SUMMARY:Ven. J83 x Ven. J84
 UID:fixture-9093@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Philadelphia\, PA\nEstádio: Lincoln Financial Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Philadelphia\, PA\nEstádio: Lincoln Financial Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Lincoln Financial Field
 DTSTART:20260625T200000Z
@@ -490,7 +490,7 @@ SUMMARY:Curaçao 🇨🇼 x 🇨🇮 Costa do Marfim
 UID:fixture-9030@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Vancouver\nEstádio: BC Place\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Vancouver\nEstádio: BC Place\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:BC Place
 DTSTART:20260703T030000Z
@@ -498,7 +498,7 @@ SUMMARY:1º B x 3º (E/F/G/I/J)
 UID:fixture-9085@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Seattle\, WA\nEstádio: Lumen Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Seattle\, WA\nEstádio: Lumen Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Lumen Field
 DTSTART:20260619T190000Z
@@ -506,7 +506,7 @@ SUMMARY:EUA 🇺🇸 x 🇦🇺 Austrália
 UID:fixture-9022@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: East Rutherford\, NJ\nEstádio: MetLife Stadium\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: East Rutherford\, NJ\nEstádio: MetLife Stadium\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:MetLife Stadium
 DTSTART:20260630T210000Z
@@ -514,7 +514,7 @@ SUMMARY:1º I x 3º (C/D/F/G/H)
 UID:fixture-9077@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Foxborough\, MA\nEstádio: Gillette Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Foxborough\, MA\nEstádio: Gillette Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Gillette Stadium
 DTSTART:20260614T010000Z
@@ -522,7 +522,7 @@ SUMMARY:Haiti 🇭🇹 x 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia
 UID:fixture-9014@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Foxborough\, MA\nEstádio: Gillette Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Foxborough\, MA\nEstádio: Gillette Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV\n• SBT
 DURATION:PT1H50M
 LOCATION:Gillette Stadium
 DTSTART:20260623T200000Z
@@ -530,7 +530,7 @@ SUMMARY:Inglaterra 🏴󠁧󠁢󠁥󠁮󠁧󠁿 x 🇬🇭 Gana
 UID:fixture-9069@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Monterrey\nEstádio: Estadio BBVA\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Monterrey\nEstádio: Estadio BBVA\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Estadio BBVA
 DTSTART:20260625T010000Z
@@ -538,7 +538,7 @@ SUMMARY:África do Sul 🇿🇦 x 🇰🇷 Coreia do Sul
 UID:fixture-9006@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Arlington\, TX\nEstádio: AT&T Stadium\nFase: Semifinais\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Arlington\, TX\nEstádio: AT&T Stadium\nFase: Semifinais\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:AT&T Stadium
 DTSTART:20260714T190000Z
@@ -546,7 +546,7 @@ SUMMARY:Ven. J97 x Ven. J98
 UID:fixture-9101@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Vancouver\nEstádio: BC Place\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Vancouver\nEstádio: BC Place\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV
 DURATION:PT1H50M
 LOCATION:BC Place
 DTSTART:20260622T010000Z
@@ -554,7 +554,7 @@ SUMMARY:Nova Zelândia 🇳🇿 x 🇪🇬 Egito
 UID:fixture-9040@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Atlanta\, GA\nEstádio: Mercedes-Benz Stadium\nFase: Oitavas de final\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Atlanta\, GA\nEstádio: Mercedes-Benz Stadium\nFase: Oitavas de final\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Mercedes-Benz Stadium
 DTSTART:20260707T160000Z
@@ -562,7 +562,7 @@ SUMMARY:Ven. J86 x Ven. J88
 UID:fixture-9095@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Monterrey\nEstádio: Estadio BBVA\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Monterrey\nEstádio: Estadio BBVA\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV
 DURATION:PT1H50M
 LOCATION:Estadio BBVA
 DTSTART:20260615T020000Z
@@ -570,7 +570,7 @@ SUMMARY:Suécia 🇸🇪 x 🇹🇳 Tunísia
 UID:fixture-9032@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Kansas City\, MO\nEstádio: Arrowhead Stadium\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Kansas City\, MO\nEstádio: Arrowhead Stadium\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Arrowhead Stadium
 DTSTART:20260704T013000Z
@@ -578,7 +578,7 @@ SUMMARY:1º K x 3º (D/E/I/J/L)
 UID:fixture-9087@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Santa Clara\, CA\nEstádio: Levi's Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Santa Clara\, CA\nEstádio: Levi's Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Levi's Stadium
 DTSTART:20260626T020000Z
@@ -586,7 +586,7 @@ SUMMARY:Paraguai 🇵🇾 x 🇦🇺 Austrália
 UID:fixture-9024@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Mexico City\nEstádio: Estadio Azteca\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Mexico City\nEstádio: Estadio Azteca\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Estadio Azteca
 DTSTART:20260701T010000Z
@@ -594,7 +594,7 @@ SUMMARY:1º A x 3º (C/E/F/H/I)
 UID:fixture-9079@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Foxborough\, MA\nEstádio: Gillette Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Foxborough\, MA\nEstádio: Gillette Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Gillette Stadium
 DTSTART:20260619T220000Z
@@ -602,7 +602,7 @@ SUMMARY:Escócia 🏴󠁧󠁢󠁳󠁣󠁴󠁿 x 🇲🇦 Marrocos
 UID:fixture-9016@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Santa Clara\, CA\nEstádio: Levi's Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Santa Clara\, CA\nEstádio: Levi's Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Levi's Stadium
 DTSTART:20260613T190000Z
@@ -610,7 +610,7 @@ SUMMARY:Qatar 🇶🇦 x 🇨🇭 Suíça
 UID:fixture-9008@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Foxborough\, MA\nEstádio: Gillette Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Foxborough\, MA\nEstádio: Gillette Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Gillette Stadium
 DTSTART:20260616T220000Z
@@ -618,7 +618,7 @@ SUMMARY:Iraque 🇮🇶 x 🇳🇴 Noruega
 UID:fixture-9050@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Miami Gardens\, FL\nEstádio: Hard Rock Stadium\nFase: Disputa de 3º lugar\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Miami Gardens\, FL\nEstádio: Hard Rock Stadium\nFase: Disputa de 3º lugar\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Hard Rock Stadium
 DTSTART:20260718T210000Z
@@ -626,7 +626,7 @@ SUMMARY:Perd. J101 x Perd. J102
 UID:fixture-9103@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Seattle\, WA\nEstádio: Lumen Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Seattle\, WA\nEstádio: Lumen Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Lumen Field
 DTSTART:20260627T030000Z
@@ -634,7 +634,7 @@ SUMMARY:Egito 🇪🇬 x 🇮🇷 Irã
 UID:fixture-9042@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Foxborough\, MA\nEstádio: Gillette Stadium\nFase: Quartas de final\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Foxborough\, MA\nEstádio: Gillette Stadium\nFase: Quartas de final\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Gillette Stadium
 DTSTART:20260709T200000Z
@@ -642,7 +642,7 @@ SUMMARY:Ven. J89 x Ven. J90
 UID:fixture-9097@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Monterrey\nEstádio: Estadio BBVA\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Monterrey\nEstádio: Estadio BBVA\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV
 DURATION:PT1H50M
 LOCATION:Estadio BBVA
 DTSTART:20260621T040000Z
@@ -650,7 +650,7 @@ SUMMARY:Tunísia 🇹🇳 x 🇯🇵 Japão
 UID:fixture-9034@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Philadelphia\, PA\nEstádio: Lincoln Financial Field\nFase: Oitavas de final\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Philadelphia\, PA\nEstádio: Lincoln Financial Field\nFase: Oitavas de final\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Lincoln Financial Field
 DTSTART:20260704T210000Z
@@ -658,7 +658,7 @@ SUMMARY:Ven. J74 x Ven. J77
 UID:fixture-9089@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Philadelphia\, PA\nEstádio: Lincoln Financial Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Philadelphia\, PA\nEstádio: Lincoln Financial Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV
 DURATION:PT1H50M
 LOCATION:Lincoln Financial Field
 DTSTART:20260614T230000Z
@@ -666,7 +666,7 @@ SUMMARY:Costa do Marfim 🇨🇮 x 🇪🇨 Equador
 UID:fixture-9026@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Atlanta\, GA\nEstádio: Mercedes-Benz Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Atlanta\, GA\nEstádio: Mercedes-Benz Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Mercedes-Benz Stadium
 DTSTART:20260624T220000Z
@@ -674,7 +674,7 @@ SUMMARY:Marrocos 🇲🇦 x 🇭🇹 Haiti
 UID:fixture-9018@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Kansas City\, MO\nEstádio: Arrowhead Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Kansas City\, MO\nEstádio: Arrowhead Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Arrowhead Stadium
 DTSTART:20260628T020000Z
@@ -682,7 +682,7 @@ SUMMARY:Argélia 🇩🇿 x 🇦🇹 Áustria
 UID:fixture-9060@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: East Rutherford\, NJ\nEstádio: MetLife Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: East Rutherford\, NJ\nEstádio: MetLife Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV
 DURATION:PT1H50M
 LOCATION:MetLife Stadium
 DTSTART:20260623T000000Z
@@ -690,7 +690,7 @@ SUMMARY:Noruega 🇳🇴 x 🇸🇳 Senegal
 UID:fixture-9052@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Miami Gardens\, FL\nEstádio: Hard Rock Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Miami Gardens\, FL\nEstádio: Hard Rock Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV\n• SBT
 DURATION:PT1H50M
 LOCATION:Hard Rock Stadium
 DTSTART:20260615T220000Z
@@ -698,7 +698,7 @@ SUMMARY:Arábia Saudita 🇸🇦 x 🇺🇾 Uruguai
 UID:fixture-9044@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Miami Gardens\, FL\nEstádio: Hard Rock Stadium\nFase: Quartas de final\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Miami Gardens\, FL\nEstádio: Hard Rock Stadium\nFase: Quartas de final\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Hard Rock Stadium
 DTSTART:20260711T210000Z
@@ -706,7 +706,7 @@ SUMMARY:Ven. J91 x Ven. J92
 UID:fixture-9099@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Arlington\, TX\nEstádio: AT&T Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Arlington\, TX\nEstádio: AT&T Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:AT&T Stadium
 DTSTART:20260625T230000Z
@@ -714,7 +714,7 @@ SUMMARY:Japão 🇯🇵 x 🇸🇪 Suécia
 UID:fixture-9036@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Kansas City\, MO\nEstádio: Arrowhead Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Kansas City\, MO\nEstádio: Arrowhead Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Arrowhead Stadium
 DTSTART:20260621T000000Z
@@ -722,7 +722,7 @@ SUMMARY:Equador 🇪🇨 x 🇨🇼 Curaçao
 UID:fixture-9028@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Toronto\nEstádio: BMO Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Toronto\nEstádio: BMO Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:BMO Field
 DTSTART:20260623T230000Z
@@ -730,7 +730,7 @@ SUMMARY:Panamá 🇵🇦 x 🇭🇷 Croácia
 UID:fixture-9070@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Mexico City\nEstádio: Estadio Azteca\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Mexico City\nEstádio: Estadio Azteca\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV
 DURATION:PT1H50M
 LOCATION:Estadio Azteca
 DTSTART:20260618T020000Z
@@ -738,7 +738,7 @@ SUMMARY:Uzbequistão 🇺🇿 x 🇨🇴 Colômbia
 UID:fixture-9062@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Toronto\nEstádio: BMO Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Toronto\nEstádio: BMO Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:BMO Field
 DTSTART:20260626T190000Z
@@ -746,7 +746,7 @@ SUMMARY:Senegal 🇸🇳 x 🇮🇶 Iraque
 UID:fixture-9054@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Miami Gardens\, FL\nEstádio: Hard Rock Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Miami Gardens\, FL\nEstádio: Hard Rock Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV\n• SBT
 DURATION:PT1H50M
 LOCATION:Hard Rock Stadium
 DTSTART:20260621T220000Z
@@ -754,7 +754,7 @@ SUMMARY:Uruguai 🇺🇾 x 🇨🇻 Cabo Verde
 UID:fixture-9046@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Los Angeles\, CA\nEstádio: SoFi Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Los Angeles\, CA\nEstádio: SoFi Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:SoFi Stadium
 DTSTART:20260616T010000Z
@@ -762,7 +762,7 @@ SUMMARY:Irã 🇮🇷 x 🇳🇿 Nova Zelândia
 UID:fixture-9038@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Atlanta\, GA\nEstádio: Mercedes-Benz Stadium\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Atlanta\, GA\nEstádio: Mercedes-Benz Stadium\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Mercedes-Benz Stadium
 DTSTART:20260701T160000Z
@@ -770,7 +770,7 @@ SUMMARY:1º L x 3º (E/H/I/J/K)
 UID:fixture-9080@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Philadelphia\, PA\nEstádio: Lincoln Financial Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Philadelphia\, PA\nEstádio: Lincoln Financial Field\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Lincoln Financial Field
 DTSTART:20260627T210000Z
@@ -778,7 +778,7 @@ SUMMARY:Croácia 🇭🇷 x 🇬🇭 Gana
 UID:fixture-9072@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Guadalajara\nEstádio: Estadio Akron\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Guadalajara\nEstádio: Estadio Akron\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV
 DURATION:PT1H50M
 LOCATION:Estadio Akron
 DTSTART:20260624T020000Z
@@ -786,7 +786,7 @@ SUMMARY:Colômbia 🇨🇴 x 🇨🇩 Congo DR
 UID:fixture-9064@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Mexico City\nEstádio: Estadio Azteca\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Mexico City\nEstádio: Estadio Azteca\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV\n• SBT
 DURATION:PT1H50M
 LOCATION:Estadio Azteca
 DTSTART:20260611T190000Z
@@ -794,7 +794,7 @@ SUMMARY:México 🇲🇽 x 🇿🇦 África do Sul
 UID:fixture-9001@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Santa Clara\, CA\nEstádio: Levi's Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Santa Clara\, CA\nEstádio: Levi's Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV\n• Globo/SporTV
 DURATION:PT1H50M
 LOCATION:Levi's Stadium
 DTSTART:20260617T040000Z
@@ -802,7 +802,7 @@ SUMMARY:Áustria 🇦🇹 x 🇯🇴 Jordânia
 UID:fixture-9056@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Houston\, TX\nEstádio: NRG Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Houston\, TX\nEstádio: NRG Stadium\nFase: Fase de grupos\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:NRG Stadium
 DTSTART:20260627T000000Z
@@ -810,7 +810,7 @@ SUMMARY:Cabo Verde 🇨🇻 x 🇸🇦 Arábia Saudita
 UID:fixture-9048@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Houston\, TX\nEstádio: NRG Stadium\nFase: Oitavas de final\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Houston\, TX\nEstádio: NRG Stadium\nFase: Oitavas de final\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:NRG Stadium
 DTSTART:20260704T170000Z
@@ -818,7 +818,7 @@ SUMMARY:Ven. J73 x Ven. J75
 UID:fixture-9090@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Seattle\, WA\nEstádio: Lumen Field\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Seattle\, WA\nEstádio: Lumen Field\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Lumen Field
 DTSTART:20260701T200000Z
@@ -826,7 +826,7 @@ SUMMARY:1º G x 3º (A/E/H/I/J)
 UID:fixture-9082@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cidade-sede: Foxborough\, MA\nEstádio: Gillette Stadium\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• SporTV\n• CazéTV
+DESCRIPTION:Cidade-sede: Foxborough\, MA\nEstádio: Gillette Stadium\nFase: Rodada de 32\n\nTransmissão no Brasil:\n• CazéTV
 DURATION:PT1H50M
 LOCATION:Gillette Stadium
 DTSTART:20260629T203000Z

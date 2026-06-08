@@ -45,7 +45,7 @@ OUTPUT_ICS: str = os.path.join(OUTPUT_DIR, "worldcup.ics")
 # Transmissão padrão
 # ---------------------------------------------------------------------------
 
-DEFAULT_BROADCASTS: list[str] = ["SporTV", "CazéTV"]
+DEFAULT_BROADCASTS: list[str] = ["CazéTV"]
 
 # ---------------------------------------------------------------------------
 # Bandeiras por país — chaves em PORTUGUÊS (nomes usados nos fixtures)
