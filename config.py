@@ -121,43 +121,43 @@ COUNTRY_FLAGS: dict[str, str] = {
 COUNTRY_CODES: dict[str, str] = {
     # Grupo A
     "México":               "MEX",
-    "África do Sul":        "RSA",
-    "Coreia do Sul":        "KOR",
-    "República Tcheca":     "CZE",
+    "África do Sul":        "AFS",  # África do Sul
+    "Coreia do Sul":        "COR",  # Coreia do Sul
+    "República Tcheca":     "RTC",  # República Tcheca
     # Grupo B
     "Canadá":               "CAN",
-    "Bósnia e Herzegovina": "BIH",
+    "Bósnia e Herzegovina": "BOS",  # Bósnia
     "Qatar":                "QAT",
     "Suíça":                "SUI",
     # Grupo C
     "Brasil":               "BRA",
     "Marrocos":             "MAR",
     "Haiti":                "HAI",
-    "Escócia":              "SCO",
+    "Escócia":              "ESC",  # Escócia
     # Grupo D
-    "EUA":                  "USA",
+    "EUA":                  "EUA",  # Estados Unidos da América
     "Paraguai":             "PAR",
     "Austrália":            "AUS",
     "Turquia":              "TUR",
     # Grupo E
-    "Alemanha":             "GER",
-    "Curaçao":              "CUW",
-    "Costa do Marfim":      "CIV",
-    "Equador":              "ECU",
+    "Alemanha":             "ALE",  # Alemanha
+    "Curaçao":              "CUR",  # Curaçao
+    "Costa do Marfim":      "CDM",  # Costa do Marfim
+    "Equador":              "EQU",  # Equador
     # Grupo F
-    "Países Baixos":        "NED",
-    "Japão":                "JPN",
-    "Suécia":               "SWE",
+    "Países Baixos":        "HOL",  # Holanda (uso consagrado no Brasil)
+    "Japão":                "JAP",  # Japão
+    "Suécia":               "SUE",  # Suécia
     "Tunísia":              "TUN",
     # Grupo G
     "Bélgica":              "BEL",
-    "Egito":                "EGY",
-    "Irã":                  "IRN",
+    "Egito":                "EGI",  # Egito
+    "Irã":                  "IRA",  # Irã
     "Nova Zelândia":        "NZL",
     # Grupo H
     "Espanha":              "ESP",
-    "Cabo Verde":           "CPV",
-    "Arábia Saudita":       "KSA",
+    "Cabo Verde":           "CAV",  # Cabo Verde
+    "Arábia Saudita":       "ARS",  # Arábia Saudita
     "Uruguai":              "URU",
     # Grupo I
     "França":               "FRA",
@@ -171,13 +171,13 @@ COUNTRY_CODES: dict[str, str] = {
     "Jordânia":             "JOR",
     # Grupo K
     "Portugal":             "POR",
-    "Congo DR":             "COD",
+    "Congo DR":             "RDC",  # República Democrática do Congo
     "Uzbequistão":          "UZB",
     "Colômbia":             "COL",
     # Grupo L
-    "Inglaterra":           "ENG",
+    "Inglaterra":           "ING",  # Inglaterra
     "Croácia":              "CRO",
-    "Gana":                 "GHA",
+    "Gana":                 "GAN",  # Gana
     "Panamá":               "PAN",
 }
 

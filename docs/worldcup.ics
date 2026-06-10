@@ -14,7 +14,7 @@ DESCRIPTION:Congo DR 🇨🇩 x 🇺🇿 Uzbequistão\n\nGrupo K\n\nCidade-sede:
 DURATION:PT1H50M
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 DTSTART:20260627T233000Z
-SUMMARY:COD x UZB
+SUMMARY:RDC x UZB
 UID:fixture-9066@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +22,7 @@ DESCRIPTION:República Tcheca 🇨🇿 x 🇿🇦 África do Sul\n\nGrupo A\n\nC
 DURATION:PT1H50M
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 DTSTART:20260618T160000Z
-SUMMARY:CZE x RSA
+SUMMARY:RTC x AFS
 UID:fixture-9003@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -78,7 +78,7 @@ DESCRIPTION:Gana 🇬🇭 x 🇵🇦 Panamá\n\nGrupo L\n\nCidade-sede: Toronto\
 DURATION:PT1H50M
 LOCATION:BMO Field\, Toronto\, ON
 DTSTART:20260617T230000Z
-SUMMARY:GHA x PAN
+SUMMARY:GAN x PAN
 UID:fixture-9068@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -86,7 +86,7 @@ DESCRIPTION:República Tcheca 🇨🇿 x 🇲🇽 México\n\nGrupo A\n\nCidade-s
 DURATION:PT1H50M
 LOCATION:Estadio Azteca\, Cidade do México
 DTSTART:20260625T010000Z
-SUMMARY:CZE x MEX
+SUMMARY:RTC x MEX
 UID:fixture-9005@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -110,7 +110,7 @@ DESCRIPTION:Países Baixos 🇳🇱 x 🇯🇵 Japão\n\nGrupo F\n\nCidade-sede:
 DURATION:PT1H50M
 LOCATION:AT&T Stadium\, Dallas\, TX
 DTSTART:20260614T200000Z
-SUMMARY:NED x JPN
+SUMMARY:HOL x JAP
 UID:fixture-9031@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -126,7 +126,7 @@ DESCRIPTION:Turquia 🇹🇷 x 🇺🇸 EUA\n\nGrupo D\n\nCidade-sede: Los Angel
 DURATION:PT1H50M
 LOCATION:SoFi Stadium\, Los Angeles\, CA
 DTSTART:20260626T020000Z
-SUMMARY:TUR x USA
+SUMMARY:TUR x EUA
 UID:fixture-9023@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -150,7 +150,7 @@ DESCRIPTION:Canadá 🇨🇦 x 🇧🇦 Bósnia e Herzegovina\n\nGrupo B\n\nCida
 DURATION:PT1H50M
 LOCATION:BMO Field\, Toronto\, ON
 DTSTART:20260612T190000Z
-SUMMARY:CAN x BIH
+SUMMARY:CAN x BOS
 UID:fixture-9007@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -182,7 +182,7 @@ DESCRIPTION:Países Baixos 🇳🇱 x 🇸🇪 Suécia\n\nGrupo F\n\nCidade-sede
 DURATION:PT1H50M
 LOCATION:NRG Stadium\, Houston\, TX
 DTSTART:20260620T170000Z
-SUMMARY:NED x SWE
+SUMMARY:HOL x SUE
 UID:fixture-9033@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -198,7 +198,7 @@ DESCRIPTION:Alemanha 🇩🇪 x 🇨🇼 Curaçao\n\nGrupo E\n\nCidade-sede: Hou
 DURATION:PT1H50M
 LOCATION:NRG Stadium\, Houston\, TX
 DTSTART:20260614T170000Z
-SUMMARY:GER x CUW
+SUMMARY:ALE x CUR
 UID:fixture-9025@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -206,7 +206,7 @@ DESCRIPTION:Escócia 🏴󠁧󠁢󠁳󠁣󠁴󠁿 x 🇧🇷 Brasil\n\nGrupo C\n
 DURATION:PT1H50M
 LOCATION:Hard Rock Stadium\, Miami\, FL
 DTSTART:20260624T220000Z
-SUMMARY:SCO x BRA
+SUMMARY:ESC x BRA
 UID:fixture-9017@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -214,7 +214,7 @@ DESCRIPTION:Suíça 🇨🇭 x 🇧🇦 Bósnia e Herzegovina\n\nGrupo B\n\nCida
 DURATION:PT1H50M
 LOCATION:SoFi Stadium\, Los Angeles\, CA
 DTSTART:20260618T190000Z
-SUMMARY:SUI x BIH
+SUMMARY:SUI x BOS
 UID:fixture-9009@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -238,7 +238,7 @@ DESCRIPTION:Espanha 🇪🇸 x 🇨🇻 Cabo Verde\n\nGrupo H\n\nCidade-sede: At
 DURATION:PT1H50M
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 DTSTART:20260615T160000Z
-SUMMARY:ESP x CPV
+SUMMARY:ESP x CAV
 UID:fixture-9043@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -254,7 +254,7 @@ DESCRIPTION:Tunísia 🇹🇳 x 🇳🇱 Países Baixos\n\nGrupo F\n\nCidade-sed
 DURATION:PT1H50M
 LOCATION:Arrowhead Stadium\, Kansas City\, MO
 DTSTART:20260625T230000Z
-SUMMARY:TUN x NED
+SUMMARY:TUN x HOL
 UID:fixture-9035@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -262,7 +262,7 @@ DESCRIPTION:Alemanha 🇩🇪 x 🇨🇮 Costa do Marfim\n\nGrupo E\n\nCidade-se
 DURATION:PT1H50M
 LOCATION:BMO Field\, Toronto\, ON
 DTSTART:20260620T200000Z
-SUMMARY:GER x CIV
+SUMMARY:ALE x CDM
 UID:fixture-9027@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -270,7 +270,7 @@ DESCRIPTION:EUA 🇺🇸 x 🇵🇾 Paraguai\n\nGrupo D\n\nCidade-sede: Los Ange
 DURATION:PT1H50M
 LOCATION:SoFi Stadium\, Los Angeles\, CA
 DTSTART:20260613T010000Z
-SUMMARY:USA x PAR
+SUMMARY:EUA x PAR
 UID:fixture-9019@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -278,7 +278,7 @@ DESCRIPTION:Portugal 🇵🇹 x 🇨🇩 Congo DR\n\nGrupo K\n\nCidade-sede: Hou
 DURATION:PT1H50M
 LOCATION:NRG Stadium\, Houston\, TX
 DTSTART:20260617T170000Z
-SUMMARY:POR x COD
+SUMMARY:POR x RDC
 UID:fixture-9061@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -294,7 +294,7 @@ DESCRIPTION:Espanha 🇪🇸 x 🇸🇦 Arábia Saudita\n\nGrupo H\n\nCidade-sed
 DURATION:PT1H50M
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 DTSTART:20260621T160000Z
-SUMMARY:ESP x KSA
+SUMMARY:ESP x ARS
 UID:fixture-9045@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -302,7 +302,7 @@ DESCRIPTION:Bélgica 🇧🇪 x 🇪🇬 Egito\n\nGrupo G\n\nCidade-sede: Seattl
 DURATION:PT1H50M
 LOCATION:Lumen Field\, Seattle\, WA
 DTSTART:20260615T190000Z
-SUMMARY:BEL x EGY
+SUMMARY:BEL x EGI
 UID:fixture-9037@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -310,7 +310,7 @@ DESCRIPTION:Equador 🇪🇨 x 🇩🇪 Alemanha\n\nGrupo E\n\nCidade-sede: New 
 DURATION:PT1H50M
 LOCATION:MetLife Stadium\, New York\, NY
 DTSTART:20260625T200000Z
-SUMMARY:ECU x GER
+SUMMARY:EQU x ALE
 UID:fixture-9029@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -318,7 +318,7 @@ DESCRIPTION:Panamá 🇵🇦 x 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra\n\nGrupo 
 DURATION:PT1H50M
 LOCATION:MetLife Stadium\, New York\, NY
 DTSTART:20260627T210000Z
-SUMMARY:PAN x ENG
+SUMMARY:PAN x ING
 UID:fixture-9071@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -350,7 +350,7 @@ DESCRIPTION:Bélgica 🇧🇪 x 🇮🇷 Irã\n\nGrupo G\n\nCidade-sede: Los Ang
 DURATION:PT1H50M
 LOCATION:SoFi Stadium\, Los Angeles\, CA
 DTSTART:20260621T190000Z
-SUMMARY:BEL x IRN
+SUMMARY:BEL x IRA
 UID:fixture-9039@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -390,7 +390,7 @@ DESCRIPTION:Coreia do Sul 🇰🇷 x 🇨🇿 República Tcheca\n\nGrupo A\n\nCi
 DURATION:PT1H50M
 LOCATION:Estadio Akron\, Guadalajara
 DTSTART:20260612T020000Z
-SUMMARY:KOR x CZE
+SUMMARY:COR x RTC
 UID:fixture-9002@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -446,7 +446,7 @@ DESCRIPTION:Bósnia e Herzegovina 🇧🇦 x 🇶🇦 Qatar\n\nGrupo B\n\nCidade
 DURATION:PT1H50M
 LOCATION:Lumen Field\, Seattle\, WA
 DTSTART:20260624T190000Z
-SUMMARY:BIH x QAT
+SUMMARY:BOS x QAT
 UID:fixture-9012@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -454,7 +454,7 @@ DESCRIPTION:Inglaterra 🏴󠁧󠁢󠁥󠁮󠁧󠁿 x 🇭🇷 Croácia\n\nGrupo
 DURATION:PT1H50M
 LOCATION:AT&T Stadium\, Dallas\, TX
 DTSTART:20260617T200000Z
-SUMMARY:ENG x CRO
+SUMMARY:ING x CRO
 UID:fixture-9067@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -462,7 +462,7 @@ DESCRIPTION:México 🇲🇽 x 🇰🇷 Coreia do Sul\n\nGrupo A\n\nCidade-sede:
 DURATION:PT1H50M
 LOCATION:Estadio Akron\, Guadalajara
 DTSTART:20260619T010000Z
-SUMMARY:MEX x KOR
+SUMMARY:MEX x COR
 UID:fixture-9004@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -486,7 +486,7 @@ DESCRIPTION:Curaçao 🇨🇼 x 🇨🇮 Costa do Marfim\n\nGrupo E\n\nCidade-se
 DURATION:PT1H50M
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 DTSTART:20260625T200000Z
-SUMMARY:CUW x CIV
+SUMMARY:CUR x CDM
 UID:fixture-9030@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -502,7 +502,7 @@ DESCRIPTION:EUA 🇺🇸 x 🇦🇺 Austrália\n\nGrupo D\n\nCidade-sede: Seattl
 DURATION:PT1H50M
 LOCATION:Lumen Field\, Seattle\, WA
 DTSTART:20260619T190000Z
-SUMMARY:USA x AUS
+SUMMARY:EUA x AUS
 UID:fixture-9022@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -518,7 +518,7 @@ DESCRIPTION:Haiti 🇭🇹 x 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia\n\nGrupo C\n\
 DURATION:PT1H50M
 LOCATION:Gillette Stadium\, Boston\, MA
 DTSTART:20260614T010000Z
-SUMMARY:HAI x SCO
+SUMMARY:HAI x ESC
 UID:fixture-9014@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -526,7 +526,7 @@ DESCRIPTION:Inglaterra 🏴󠁧󠁢󠁥󠁮󠁧󠁿 x 🇬🇭 Gana\n\nGrupo L\n
 DURATION:PT1H50M
 LOCATION:Gillette Stadium\, Boston\, MA
 DTSTART:20260623T200000Z
-SUMMARY:ENG x GHA
+SUMMARY:ING x GAN
 UID:fixture-9069@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -534,7 +534,7 @@ DESCRIPTION:África do Sul 🇿🇦 x 🇰🇷 Coreia do Sul\n\nGrupo A\n\nCidad
 DURATION:PT1H50M
 LOCATION:Estadio BBVA\, Monterrey
 DTSTART:20260625T010000Z
-SUMMARY:RSA x KOR
+SUMMARY:AFS x COR
 UID:fixture-9006@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -550,7 +550,7 @@ DESCRIPTION:Nova Zelândia 🇳🇿 x 🇪🇬 Egito\n\nGrupo G\n\nCidade-sede: 
 DURATION:PT1H50M
 LOCATION:BC Place\, Vancouver\, BC
 DTSTART:20260622T010000Z
-SUMMARY:NZL x EGY
+SUMMARY:NZL x EGI
 UID:fixture-9040@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -566,7 +566,7 @@ DESCRIPTION:Suécia 🇸🇪 x 🇹🇳 Tunísia\n\nGrupo F\n\nCidade-sede: Mont
 DURATION:PT1H50M
 LOCATION:Estadio BBVA\, Monterrey
 DTSTART:20260615T020000Z
-SUMMARY:SWE x TUN
+SUMMARY:SUE x TUN
 UID:fixture-9032@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -598,7 +598,7 @@ DESCRIPTION:Escócia 🏴󠁧󠁢󠁳󠁣󠁴󠁿 x 🇲🇦 Marrocos\n\nGrupo C
 DURATION:PT1H50M
 LOCATION:Gillette Stadium\, Boston\, MA
 DTSTART:20260619T220000Z
-SUMMARY:SCO x MAR
+SUMMARY:ESC x MAR
 UID:fixture-9016@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -630,7 +630,7 @@ DESCRIPTION:Egito 🇪🇬 x 🇮🇷 Irã\n\nGrupo G\n\nCidade-sede: Seattle\, 
 DURATION:PT1H50M
 LOCATION:Lumen Field\, Seattle\, WA
 DTSTART:20260627T030000Z
-SUMMARY:EGY x IRN
+SUMMARY:EGI x IRA
 UID:fixture-9042@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -646,7 +646,7 @@ DESCRIPTION:Tunísia 🇹🇳 x 🇯🇵 Japão\n\nGrupo F\n\nCidade-sede: Monte
 DURATION:PT1H50M
 LOCATION:Estadio BBVA\, Monterrey
 DTSTART:20260621T040000Z
-SUMMARY:TUN x JPN
+SUMMARY:TUN x JAP
 UID:fixture-9034@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -662,7 +662,7 @@ DESCRIPTION:Costa do Marfim 🇨🇮 x 🇪🇨 Equador\n\nGrupo E\n\nCidade-sed
 DURATION:PT1H50M
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 DTSTART:20260614T230000Z
-SUMMARY:CIV x ECU
+SUMMARY:CDM x EQU
 UID:fixture-9026@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -694,7 +694,7 @@ DESCRIPTION:Arábia Saudita 🇸🇦 x 🇺🇾 Uruguai\n\nGrupo H\n\nCidade-sed
 DURATION:PT1H50M
 LOCATION:Hard Rock Stadium\, Miami\, FL
 DTSTART:20260615T220000Z
-SUMMARY:KSA x URU
+SUMMARY:ARS x URU
 UID:fixture-9044@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -710,7 +710,7 @@ DESCRIPTION:Japão 🇯🇵 x 🇸🇪 Suécia\n\nGrupo F\n\nCidade-sede: Dallas
 DURATION:PT1H50M
 LOCATION:AT&T Stadium\, Dallas\, TX
 DTSTART:20260625T230000Z
-SUMMARY:JPN x SWE
+SUMMARY:JAP x SUE
 UID:fixture-9036@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -718,7 +718,7 @@ DESCRIPTION:Equador 🇪🇨 x 🇨🇼 Curaçao\n\nGrupo E\n\nCidade-sede: Kans
 DURATION:PT1H50M
 LOCATION:Arrowhead Stadium\, Kansas City\, MO
 DTSTART:20260621T000000Z
-SUMMARY:ECU x CUW
+SUMMARY:EQU x CUR
 UID:fixture-9028@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -750,7 +750,7 @@ DESCRIPTION:Uruguai 🇺🇾 x 🇨🇻 Cabo Verde\n\nGrupo H\n\nCidade-sede: Mi
 DURATION:PT1H50M
 LOCATION:Hard Rock Stadium\, Miami\, FL
 DTSTART:20260621T220000Z
-SUMMARY:URU x CPV
+SUMMARY:URU x CAV
 UID:fixture-9046@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -758,7 +758,7 @@ DESCRIPTION:Irã 🇮🇷 x 🇳🇿 Nova Zelândia\n\nGrupo G\n\nCidade-sede: L
 DURATION:PT1H50M
 LOCATION:SoFi Stadium\, Los Angeles\, CA
 DTSTART:20260616T010000Z
-SUMMARY:IRN x NZL
+SUMMARY:IRA x NZL
 UID:fixture-9038@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -774,7 +774,7 @@ DESCRIPTION:Croácia 🇭🇷 x 🇬🇭 Gana\n\nGrupo L\n\nCidade-sede: Philade
 DURATION:PT1H50M
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 DTSTART:20260627T210000Z
-SUMMARY:CRO x GHA
+SUMMARY:CRO x GAN
 UID:fixture-9072@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -782,7 +782,7 @@ DESCRIPTION:Colômbia 🇨🇴 x 🇨🇩 Congo DR\n\nGrupo K\n\nCidade-sede: Gu
 DURATION:PT1H50M
 LOCATION:Estadio Akron\, Guadalajara
 DTSTART:20260624T020000Z
-SUMMARY:COL x COD
+SUMMARY:COL x RDC
 UID:fixture-9064@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -790,7 +790,7 @@ DESCRIPTION:México 🇲🇽 x 🇿🇦 África do Sul\n\nGrupo A\n\nCidade-sede
 DURATION:PT1H50M
 LOCATION:Estadio Azteca\, Cidade do México
 DTSTART:20260611T190000Z
-SUMMARY:MEX x RSA
+SUMMARY:MEX x AFS
 UID:fixture-9001@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
@@ -806,7 +806,7 @@ DESCRIPTION:Cabo Verde 🇨🇻 x 🇸🇦 Arábia Saudita\n\nGrupo H\n\nCidade-
 DURATION:PT1H50M
 LOCATION:NRG Stadium\, Houston\, TX
 DTSTART:20260627T000000Z
-SUMMARY:CPV x KSA
+SUMMARY:CAV x ARS
 UID:fixture-9048@worldcup2026.joaopedrobaq.github.io
 END:VEVENT
 BEGIN:VEVENT
