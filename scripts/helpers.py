@@ -39,6 +39,18 @@ def country_flag(country_name: str) -> str:
     return config.COUNTRY_FLAGS.get(country_name, "")
 
 
+def country_code(country_name: str) -> str:
+    """Retorna o código FIFA de 3 letras para o país, ou string vazia."""
+    return config.COUNTRY_CODES.get(country_name, "")
+
+
+def format_match_code(home: str, away: str) -> str:
+    """Monta o título curto do evento: 'BRA x FRA'. Fallback para o nome se não houver código."""
+    home_part = country_code(home) or home
+    away_part = country_code(away) or away
+    return f"{home_part} x {away_part}"
+
+
 def format_team_name(country_name: str) -> str:
     """
     Formata nome do time com bandeira: 'Brasil 🇧🇷'

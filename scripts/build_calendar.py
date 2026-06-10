@@ -16,6 +16,8 @@ from ics import Calendar, Event
 
 import config
 from scripts.helpers import (
+    country_code,
+    format_match_code,
     format_match_title,
     load_json,
     save_json,
@@ -33,16 +35,29 @@ DEFAULT_DURATION = timedelta(minutes=110)
 # Construção da descrição do evento
 # ---------------------------------------------------------------------------
 
-def build_description(fixture: dict, broadcast_names: list[str]) -> str:
+def build_description(fixture: dict, broadcast_names: list[str], full_title: str = "") -> str:
     """
     Monta o texto de descrição do evento ICS.
     Todos os campos são opcionais — campos vazios são omitidos.
     """
     lines: list[str] = []
 
-    city = fixture.get("venue", {}).get("city", "")
+    if full_title:
+        lines.append(full_title)
+        lines.append("")
+
+    round_str = fixture.get("round", "")
+
+    # Grupo (apenas na fase de grupos)
+    if "Group Stage" in round_str:
+        parts = round_str.split(" - ")
+        if len(parts) > 1 and not parts[-1].strip().isdigit():
+            lines.append(f"Grupo {parts[-1].strip()}")
+            lines.append("")
+
     stadium = fixture.get("venue", {}).get("name", "")
-    round_label = translate_round(fixture.get("round", ""))
+    city = config.VENUE_CITY_MAP.get(stadium) or fixture.get("venue", {}).get("city", "")
+    round_label = translate_round(round_str)
 
     if city:
         lines.append(f"Cidade-sede: {city}")
@@ -88,16 +103,40 @@ def _is_placeholder(name: str) -> bool:
 
 def build_event_title(fixture: dict) -> str:
     """
-    Determina o título mais informativo possível para o jogo:
-
-    - Times definidos    → 'Brasil 🇧🇷 x 🇫🇷 França'
-    - Placeholders mata-mata → '1º A x 2º B'  /  'Ven. J73 x Ven. J75'
-    - Nada definido      → nome da fase
+    Título curto para exibição no grid do calendário: 'BRA x FRA'.
+    Placeholders de mata-mata são mantidos como estão.
     """
     home = resolve_team_name(fixture.get("home", {}))
     away = resolve_team_name(fixture.get("away", {}))
 
-    # Placeholders de chaveamento: exibe sem bandeira, separado por " x "
+    if home and away and (_is_placeholder(home) or _is_placeholder(away)):
+        return f"{home} x {away}"
+
+    round_raw = fixture.get("round", "")
+    placeholder = _round_placeholder(round_raw)
+
+    if home and away:
+        return format_match_code(home, away)
+
+    home_part = country_code(home) or home
+    away_part = country_code(away) or away
+
+    if home and not away:
+        return f"{home_part} x {placeholder}".strip(" x ")
+    if not home and away:
+        return f"{placeholder} x {away_part}".strip("x ").strip()
+
+    return placeholder or f"Jogo {fixture.get('id', '')}"
+
+
+def build_event_title_full(fixture: dict) -> str:
+    """
+    Título detalhado com bandeiras para a primeira linha da descrição:
+    'Brasil 🇧🇷 x 🇫🇷 França'.
+    """
+    home = resolve_team_name(fixture.get("home", {}))
+    away = resolve_team_name(fixture.get("away", {}))
+
     if home and away and (_is_placeholder(home) or _is_placeholder(away)):
         return f"{home} x {away}"
 
@@ -150,13 +189,16 @@ def fixture_to_event(fixture: dict, broadcasts: dict[str, list[str]]) -> Event |
     fid = fixture.get("id")
     broadcast_names: list[str] = broadcasts.get(str(fid), config.DEFAULT_BROADCASTS)
 
+    stadium = fixture.get("venue", {}).get("name", "")
+    city = config.VENUE_CITY_MAP.get(stadium, "")
+
     event = Event()
     event.uid = build_uid(fid)
     event.name = build_event_title(fixture)
     event.begin = begin
     event.duration = DEFAULT_DURATION
-    event.description = build_description(fixture, broadcast_names)
-    event.location = fixture.get("venue", {}).get("name", "")
+    event.description = build_description(fixture, broadcast_names, build_event_title_full(fixture))
+    event.location = f"{stadium}, {city}" if stadium and city else stadium
 
     return event
 

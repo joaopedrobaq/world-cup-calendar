@@ -113,3 +113,93 @@ COUNTRY_FLAGS: dict[str, str] = {
     "Gana":                "🇬🇭",
     "Panamá":              "🇵🇦",
 }
+
+# ---------------------------------------------------------------------------
+# Códigos FIFA de 3 letras — chaves em PORTUGUÊS (nomes usados nos fixtures)
+# ---------------------------------------------------------------------------
+
+COUNTRY_CODES: dict[str, str] = {
+    # Grupo A
+    "México":               "MEX",
+    "África do Sul":        "RSA",
+    "Coreia do Sul":        "KOR",
+    "República Tcheca":     "CZE",
+    # Grupo B
+    "Canadá":               "CAN",
+    "Bósnia e Herzegovina": "BIH",
+    "Qatar":                "QAT",
+    "Suíça":                "SUI",
+    # Grupo C
+    "Brasil":               "BRA",
+    "Marrocos":             "MAR",
+    "Haiti":                "HAI",
+    "Escócia":              "SCO",
+    # Grupo D
+    "EUA":                  "USA",
+    "Paraguai":             "PAR",
+    "Austrália":            "AUS",
+    "Turquia":              "TUR",
+    # Grupo E
+    "Alemanha":             "GER",
+    "Curaçao":              "CUW",
+    "Costa do Marfim":      "CIV",
+    "Equador":              "ECU",
+    # Grupo F
+    "Países Baixos":        "NED",
+    "Japão":                "JPN",
+    "Suécia":               "SWE",
+    "Tunísia":              "TUN",
+    # Grupo G
+    "Bélgica":              "BEL",
+    "Egito":                "EGY",
+    "Irã":                  "IRN",
+    "Nova Zelândia":        "NZL",
+    # Grupo H
+    "Espanha":              "ESP",
+    "Cabo Verde":           "CPV",
+    "Arábia Saudita":       "KSA",
+    "Uruguai":              "URU",
+    # Grupo I
+    "França":               "FRA",
+    "Senegal":              "SEN",
+    "Iraque":               "IRQ",
+    "Noruega":              "NOR",
+    # Grupo J
+    "Argentina":            "ARG",
+    "Argélia":              "ALG",
+    "Áustria":              "AUT",
+    "Jordânia":             "JOR",
+    # Grupo K
+    "Portugal":             "POR",
+    "Congo DR":             "COD",
+    "Uzbequistão":          "UZB",
+    "Colômbia":             "COL",
+    # Grupo L
+    "Inglaterra":           "ENG",
+    "Croácia":              "CRO",
+    "Gana":                 "GHA",
+    "Panamá":               "PAN",
+}
+
+# ---------------------------------------------------------------------------
+# Mapeamento estádio → cidade-sede oficial (metrópole, não município real)
+# ---------------------------------------------------------------------------
+
+VENUE_CITY_MAP: dict[str, str] = {
+    "AT&T Stadium":            "Dallas, TX",        # Arlington → Dallas metro
+    "Arrowhead Stadium":       "Kansas City, MO",
+    "BC Place":                "Vancouver, BC",
+    "BMO Field":               "Toronto, ON",
+    "Estadio Akron":           "Guadalajara",
+    "Estadio Azteca":          "Cidade do México",
+    "Estadio BBVA":            "Monterrey",
+    "Gillette Stadium":        "Boston, MA",        # Foxborough → Boston metro
+    "Hard Rock Stadium":       "Miami, FL",         # Miami Gardens → Miami
+    "Levi's Stadium":          "San Francisco, CA", # Santa Clara → SF Bay Area
+    "Lincoln Financial Field": "Philadelphia, PA",
+    "Lumen Field":             "Seattle, WA",
+    "Mercedes-Benz Stadium":   "Atlanta, GA",
+    "MetLife Stadium":         "New York, NY",      # East Rutherford → NY metro
+    "NRG Stadium":             "Houston, TX",
+    "SoFi Stadium":            "Los Angeles, CA",
+}
