@@ -1,8 +1,6 @@
 # 🏆 Copa do Mundo 2026 — Calendário ICS
 
-Calendário automático da Copa do Mundo 2026 para Google Calendar, Apple Calendar e qualquer app compatível com `.ics`.
-
-Atualizado automaticamente a cada 6 horas via GitHub Actions.
+Calendário completo da Copa do Mundo 2026 para Google Calendar, Apple Calendar e qualquer app compatível com `.ics`.
 
 ---
 
@@ -30,9 +28,36 @@ https://joaopedrobaq.github.io/world-cup-calendar/worldcup.ics
 
 - Todos os **104 jogos** da Copa do Mundo 2026
 - Fase de grupos + Mata-mata (placeholders atualizados conforme classificação)
-- Estádios e cidades-sede (EUA, México, Canadá)
 - Horários em **UTC** (o app de calendário converte para seu fuso)
 - Transmissões no Brasil (TV Globo, SporTV, CazéTV) por jogo
+
+### Formato dos eventos
+
+**Título** — código de 3 letras em português para caber no grid do calendário:
+```
+BRA x ALE
+```
+
+**Descrição** — título completo com bandeiras, grupo (fase de grupos), cidade-sede, estádio e transmissões:
+```
+Brasil 🇧🇷 x 🇩🇪 Alemanha
+
+Grupo C
+
+Cidade-sede: Los Angeles, CA
+Estádio: SoFi Stadium
+Fase: Fase de grupos
+
+Transmissão no Brasil:
+• CazéTV
+```
+
+**Local** — cidade-sede metropolitana + UF/Província, não o município real do estádio:
+```
+SoFi Stadium, Los Angeles, CA   (não "Inglewood")
+AT&T Stadium, Dallas, TX        (não "Arlington")
+MetLife Stadium, New York, NY   (não "East Rutherford")
+```
 
 ---
 
@@ -42,25 +67,22 @@ https://joaopedrobaq.github.io/world-cup-calendar/worldcup.ics
 world-cup-calendar/
 │
 ├── data/
-│   ├── fixtures.json       # Jogos baixados da API (não editar manualmente)
-│   ├── broadcasts.json     # Mapeamento de transmissões por fixture_id
-│   └── cache.json          # Timestamp da última geração
+│   ├── fixtures.json         # Jogos (gerado por fetch_matches.py ou build_static_fixtures.py)
+│   ├── broadcasts.json       # Mapeamento de transmissões por fixture_id
+│   └── cache.json            # Timestamp da última geração
 │
-├── output/
-│   └── worldcup.ics        # Arquivo publicado no GitHub Pages
+├── docs/
+│   └── worldcup.ics          # Arquivo publicado no GitHub Pages
 │
 ├── scripts/
-│   ├── fetch_matches.py    # Busca jogos na API-Football
-│   ├── build_calendar.py   # Gera o .ics
-│   ├── helpers.py          # Utilitários compartilhados
-│   └── update_broadcasts.py # Gerencia broadcasts.json
+│   ├── fetch_matches.py      # Busca jogos na API-Football
+│   ├── build_static_fixtures.py  # Gera fixtures.json a partir de dados estáticos
+│   ├── build_calendar.py     # Gera o .ics a partir de fixtures.json
+│   ├── update_broadcasts.py  # Gerencia broadcasts.json
+│   ├── editor.py             # Editor visual de jogos e transmissões
+│   └── helpers.py            # Utilitários compartilhados
 │
-├── .github/
-│   └── workflows/
-│       └── update.yml      # Automação GitHub Actions
-│
-├── config.py               # Configurações centrais
-└── requirements.txt
+└── config.py                 # Configurações, bandeiras, códigos e mapeamento de estádios
 ```
 
 ---
@@ -69,8 +91,7 @@ world-cup-calendar/
 
 ### Pré-requisitos
 
-- Python 3.12+
-- Chave da [API-Football](https://www.api-football.com/) (plano gratuito é suficiente para testes)
+- Python 3.11+
 
 ### Instalação
 
@@ -87,26 +108,26 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Configurar a API key localmente
+### Gerar o calendário
 
 ```bash
-# Windows PowerShell
-$env:API_FOOTBALL_KEY = "sua_chave_aqui"
-
-# macOS/Linux
-export API_FOOTBALL_KEY="sua_chave_aqui"
-```
-
-### Executar
-
-```bash
-# 1. Baixar jogos da API
-python scripts/fetch_matches.py
-
-# 2. Gerar o .ics
+# Gera o .ics a partir dos fixtures já existentes em data/fixtures.json
 python scripts/build_calendar.py
 
-# O arquivo estará em output/worldcup.ics
+# O arquivo será salvo em docs/worldcup.ics
+```
+
+### Atualizar jogos via API (requer chave paga)
+
+```bash
+# Configurar a API key
+# Windows PowerShell:
+$env:API_FOOTBALL_KEY = "sua_chave_aqui"
+# macOS/Linux:
+export API_FOOTBALL_KEY="sua_chave_aqui"
+
+# Buscar jogos na API-Football
+python scripts/fetch_matches.py
 ```
 
 ---
@@ -114,25 +135,13 @@ python scripts/build_calendar.py
 ## GitHub Pages
 
 1. Acesse **Settings → Pages** no repositório.
-2. Em **Source**, selecione **"GitHub Actions"**.
-3. Faça o primeiro push — o workflow vai publicar automaticamente.
+2. Em **Source**, selecione **Deploy from a branch → `main` → `/docs`**.
 
 A URL pública será:
 
 ```
 https://joaopedrobaq.github.io/world-cup-calendar/worldcup.ics
 ```
-
----
-
-## GitHub Secrets
-
-O workflow precisa de um secret para chamar a API:
-
-1. Acesse **Settings → Secrets and variables → Actions**.
-2. Clique em **"New repository secret"**.
-3. Nome: `API_FOOTBALL_KEY`
-4. Valor: sua chave da API-Football.
 
 ---
 
@@ -144,27 +153,14 @@ O mapeamento de canais por jogo é semi-manual. Use o script de utilidade:
 # Ver todos os mapeamentos
 python scripts/update_broadcasts.py list
 
-# Definir canais para um jogo (ID do fixture da API)
-python scripts/update_broadcasts.py set 123456 "TV Globo" "SporTV" "CazéTV"
+# Definir canais para um jogo (ID do fixture)
+python scripts/update_broadcasts.py set 9001 "TV Globo" "SporTV" "CazéTV"
 
 # Remover mapeamento de um jogo
-python scripts/update_broadcasts.py remove 123456
+python scripts/update_broadcasts.py remove 9001
 ```
 
 Jogos sem mapeamento explícito usam o padrão definido em `config.py → DEFAULT_BROADCASTS`.
-
----
-
-## Automação
-
-O workflow `update.yml` executa automaticamente:
-
-| Gatilho         | Frequência       |
-|-----------------|------------------|
-| Cron schedule   | A cada 6 horas   |
-| Manual dispatch | Sob demanda      |
-
-Fluxo: **fetch → build → commit → deploy Pages**
 
 ---
 
@@ -173,5 +169,4 @@ Fluxo: **fetch → build → commit → deploy Pages**
 Pull requests são bem-vindos. Áreas prioritárias:
 
 - Completar mapeamento de transmissões (`data/broadcasts.json`)
-- Adicionar bandeiras de países ainda não mapeados (`config.py → COUNTRY_FLAGS`)
-- Melhorar resolução de placeholders no mata-mata
+- Atualizar fixtures conforme classificação oficial para o mata-mata
